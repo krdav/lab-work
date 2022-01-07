@@ -1,4 +1,4 @@
-*.DS_Store
-_data/*
-
+.DS_Store
+**/_data/
+**/CC_data/
 
