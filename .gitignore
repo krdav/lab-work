@@ -1,7 +1,6 @@
-.DS_Store
 **/_data/
 **/CC_data/
 **/.ipynb_checkpoints
-
-
+**/~$*
+**/.DS_Store
 
