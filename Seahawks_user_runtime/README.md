@@ -4,10 +4,10 @@ Tools for calculating tool runtime/reserved time per Seahawks user.
 
 ### Content
 input/
-    hgd
-    hgfd
+:    hgd
+:    hgfd
 
 output_excel/
-    gfdfs
+:    gfdfs
 
 
