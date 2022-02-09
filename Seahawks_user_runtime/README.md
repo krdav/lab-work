@@ -13,8 +13,8 @@ Tools for calculating tool runtime/reserved time per Seahawks user.
    - user_time.xlsx : Scan data aggregated based on username (called "Owner") i.e. each row is a user
 
 Column description for user_time.xlsx:
-* User reserved time [column: "Reserved time"]. Calculated as the sum of reserved time per vessels. Reversed time for each vessel is calculated by taking the time from start of first scan to end of last scan.
-* User scan time [column: "Scan time X fraction"]. Calculated as the sum of scan time per vessels. Scan time for each vessel is calculated by summing all the time spent on all scans for the vessel.
+* User reserved time (in seconds) [column: "Reserved time"]. Calculated as the sum of reserved time per vessels. Reversed time for each vessel is calculated by taking the time from start of first scan to end of last scan.
+* User scan time (in seconds) [column: "Scan time X fraction"]. Calculated as the sum of scan time per vessels. Scan time for each vessel is calculated by summing all the time spent on all scans for the vessel.
 
 
 - output_plots/
