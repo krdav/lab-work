@@ -20,6 +20,3 @@ Column description for user_time.xlsx:
 output_plots/
 : acc-resrv-user.pdf : Barplot of accumulated user reserved time.
 : acc-scan-user.pdf : Barplot of accumulated user scan time.
-
-
-
