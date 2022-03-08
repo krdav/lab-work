@@ -1,0 +1,22 @@
+Multisizer 4	16:41   1 Jun 2021
+File name:	CytB-Chlor_Vec_0mM-Asp_1_ 1 Jun 2021_01.#m4
+File ID:	CytB-Chlor
+Sample ID:	Vec_0mM-Asp_1
+Control mode:	Volumetric,  2000  uL
+Acquired:	16:40   1 Jun 2021
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	1271
+Counting threshold:	5.000
+Counts above threshold:	1271
+Coincidence corrected:	1273
+
+From	12.20
+To	34.92
+Number 	7470
+Mean:	21.23
+Median:	21.04
+S.D.:	3.437
+

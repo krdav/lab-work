@@ -1,0 +1,22 @@
+Multisizer 4	20:35   1 Jun 2021
+File name:	CytB-Chlor_800uM-Chlor_2mM-Pyr_3_ 1 Jun 2021_01.#m4
+File ID:	CytB-Chlor
+Sample ID:	800uM-Chlor_2mM-Pyr_3
+Control mode:	Volumetric,  2000  uL
+Acquired:	20:33   1 Jun 2021
+Size bins:	200
+From	4.995
+To	60.00
+Sizing threshold:	5.000
+Total pulses:	20595
+Counting threshold:	5.000
+Counts above threshold:	20595
+Coincidence corrected:	21299
+
+From	12.15
+To	34.97
+Number 	167.5e3
+Mean:	21.46
+Median:	21.46
+S.D.:	2.762
+
