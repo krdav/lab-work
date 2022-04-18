@@ -1,0 +1,22 @@
+Multisizer 4	18:57  12 Apr 2022
+File name:	H1299-Nuc-RFP_rot-rescue_t0_2_12 Apr 2022_01.#m4
+File ID:	H1299-Nuc-RFP_rot-rescue
+Sample ID:	t0_2
+Control mode:	Volumetric,  2000  uL
+Acquired:	18:56  12 Apr 2022
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	3989
+Counting threshold:	5.000
+Counts above threshold:	3989
+Coincidence corrected:	4020
+
+From	1978
+To	40408
+Number 	27330
+Mean:	9252
+Median:	8668
+S.D.:	3510
+
