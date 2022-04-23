@@ -1,0 +1,22 @@
+Multisizer 4	13:27   3 Oct 2020
+File name:	143B-Asn-uptake-flux_t0_w5_ 3 Oct 2020_02.#m4
+File ID:	143B-Asn-uptake-flux
+Sample ID:	t0_w5
+Control mode:	Volumetric,  500  uL
+Acquired:	13:26   3 Oct 2020
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	5201
+Counting threshold:	5.000
+Counts above threshold:	5201
+Coincidence corrected:	5395
+
+From	13.10
+To	35.15
+Number 	177.2e3
+Mean:	21.29
+Median:	21.07
+S.D.:	2.638
+
