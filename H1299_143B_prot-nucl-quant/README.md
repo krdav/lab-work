@@ -10,6 +10,7 @@ Acid hydrolysis followed by LCMS to quantify total intracellular level of aspart
 Contains all relevant information to predict cell composition to check the acid hydrolysis results.
 Three subfolders store data/methods used to perform the prediction:
 
+<div style="padding-left: 30px;">
 #### `intracellular_amino-acids`
 LCMS based quantification of intracellular concentration of amino acids in 143B and H1299 cell lines.
 Quantification is based on U-15N, U-13C internal standards and calibration curves with three replicates and either with/without 1 mM asparagine in the medai.
@@ -21,6 +22,9 @@ Thus, the BCA can systematically over or under-estimate total protein.
 
 #### `amino_acid_abundance_estimate`
 A computational estimate of amino acid abundance based on global proteomics to determine the relative abundance of each protein in the proteome and the amino acid sequence of each protein.
+
+</div>
+
 
 ### `AA_influx_143B-GOT-DKO`
 Amino acid uptake flux into 143B cells with both GOT1 and GOT2 knocked out using LCMS based quantification.
