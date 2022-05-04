@@ -1,0 +1,61 @@
+Multisizer 4	21:14  13 Apr 2021
+File name:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest_0mM-met_sal-mix_1_28 Dec 2020_01.#m4
+File ID:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest 
+Sample ID:	0mM-met_sal-mix_1
+Control mode:	Volumetric,  2000  uL
+Acquired:	 0:21  28 Dec 2020
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	11024
+Counting threshold:	5.000
+Counts above threshold:	11024
+Coincidence corrected:	11263
+
+From	1978
+To	40408
+Number 	445.7e3
+Mean:	6684
+Median:	6168
+D(0,0):	22.89
+Mean/Median ratio:	1.084
+Mode:	5915
+95% Conf. Limits:	6629
+95% Conf. Limits:	6739
+S.D.:	2651
+Variance:	7.027e6
+C.V.:	39.66
+Skewness:	2.509
+Kurtosis:	13.67
+d10:	4143
+d50:	6168
+d90:	9630
+Specific Surf. Area:	2530
+
+% <	Size 
+10	4143
+25	4979
+50	6168
+75	7737
+90	9630
+
+% >	Size 
+10	9630
+25	7737
+50	6168
+75	4979
+90	4143
+
+Size 	% <
+1	0
+10	0
+100	0
+1000	0
+
+Size 	% >
+1	100
+10	100
+100	100
+1000	100
+
