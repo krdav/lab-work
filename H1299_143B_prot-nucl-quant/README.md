@@ -6,6 +6,8 @@ The folders contain data and analysis scripts for the following quantifications:
 ### `acid-hydrolysis`
 Acid hydrolysis followed by LCMS to quantify total intracellular level of aspartate and nucleotides in 143B and H1299 cell lines.
 
+---
+
 ### `cell_composition_prediction`
 Contains all relevant information to predict cell composition to check the acid hydrolysis results.
 Three subfolders store data/methods used to perform the prediction:
@@ -22,6 +24,7 @@ Thus, the BCA can systematically over or under-estimate total protein.
 #### `amino_acid_abundance_estimate`
 A computational estimate of amino acid abundance based on global proteomics to determine the relative abundance of each protein in the proteome and the amino acid sequence of each protein.
 
+---
 
 ### `AA_influx_143B-GOT-DKO`
 Amino acid uptake flux into 143B cells with both GOT1 and GOT2 knocked out using LCMS based quantification.
