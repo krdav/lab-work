@@ -6,6 +6,9 @@ The folders contain data and analysis scripts for the following quantifications:
 ### `acid-hydrolysis`
 Acid hydrolysis followed by LCMS to quantify total intracellular level of aspartate and nucleotides in 143B and H1299 cell lines.
 
+### `on-plate-acid-hydrolysis`
+Acid hydrolysis directly on the plate i.e. including extracellular matrix proteins followed by LCMS to quantify total levels of amino acids in 143B and H1299 cell lines.
+
 ---
 
 ### `cell_composition_prediction`
