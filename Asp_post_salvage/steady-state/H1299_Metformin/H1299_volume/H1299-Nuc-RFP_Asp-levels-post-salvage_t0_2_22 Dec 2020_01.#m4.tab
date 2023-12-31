@@ -1,0 +1,61 @@
+Multisizer 4	21:36  13 Apr 2021
+File name:	H1299-Nuc-RFP_Asp-levels-post-salvage_t0_2_22 Dec 2020_01.#m4
+File ID:	H1299-Nuc-RFP_Asp-levels-post-salvage
+Sample ID:	t0_2
+Control mode:	Volumetric,  2000  uL
+Acquired:	15:30  22 Dec 2020
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	1191
+Counting threshold:	5.000
+Counts above threshold:	1191
+Coincidence corrected:	1194
+
+From	1978
+To	39770
+Number 	9040
+Mean:	9562
+Median:	9130
+D(0,0):	25.82
+Mean/Median ratio:	1.047
+Mode:	9243
+95% Conf. Limits:	9343
+95% Conf. Limits:	9781
+S.D.:	3355
+Variance:	11.26e6
+C.V.:	35.09
+Skewness:	1.350
+Kurtosis:	4.712
+d10:	5984
+d50:	9130
+d90:	13530
+Specific Surf. Area:	2249
+
+% <	Size 
+10	5984
+25	7367
+50	9130
+75	11350
+90	13530
+
+% >	Size 
+10	13530
+25	11350
+50	9130
+75	7367
+90	5984
+
+Size 	% <
+1	0
+10	0
+100	0
+1000	0
+
+Size 	% >
+1	100
+10	100
+100	100
+1000	100
+
