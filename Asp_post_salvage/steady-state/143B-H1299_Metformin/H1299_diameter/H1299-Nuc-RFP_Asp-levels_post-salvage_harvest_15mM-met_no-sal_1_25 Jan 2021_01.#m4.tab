@@ -1,0 +1,21 @@
+Multisizer 4	1/25/2021 21:19
+File name:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest_15mM-met_no-sal_1_25 Jan 2021_01.#m4
+File ID:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest
+Sample ID:	15mM-met_no-sal_1
+Control mode:	"Volumetric,  2000  uL"
+Acquired:	1/25/2021 21:18
+Size bins:	200
+From	5
+To	50
+Sizing threshold:	5
+Total pulses:	424
+Counting threshold:	5
+Counts above threshold:	424
+Coincidence corrected:	424
+
+From	14.9
+To	35.15
+Number 	1690
+Mean:	22.31
+Median:	21.31
+S.D.:	4.243

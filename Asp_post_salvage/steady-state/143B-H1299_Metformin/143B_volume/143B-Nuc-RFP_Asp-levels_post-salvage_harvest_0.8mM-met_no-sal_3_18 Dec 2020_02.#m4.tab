@@ -1,0 +1,61 @@
+Multisizer 4	22:26  13 Apr 2021
+File name:	143B-Nuc-RFP_Asp-levels_post-salvage_harvest_0.8mM-met_no-sal_3_18 Dec 2020_02.#m4
+File ID:	143B-Nuc-RFP_Asp-levels 
+Sample ID:	post-salvage_harvest_0.8mM-met_no-sal_3
+Control mode:	Volumetric,  500  uL
+Acquired:	22:07  18 Dec 2020
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	6604
+Counting threshold:	5.000
+Counts above threshold:	6604
+Coincidence corrected:	6874
+
+From	1004
+To	20218
+Number 	208.0e3
+Mean:	4917
+Median:	4588
+D(0,0):	20.57
+Mean/Median ratio:	1.072
+Mode:	3890
+95% Conf. Limits:	4862
+95% Conf. Limits:	4972
+S.D.:	2014
+Variance:	4.058e6
+C.V.:	40.97
+Skewness:	1.809
+Kurtosis:	7.300
+d10:	2900
+d50:	4588
+d90:	7252
+Specific Surf. Area:	2797
+
+% <	Size 
+10	2900
+25	3586
+50	4588
+75	5869
+90	7252
+
+% >	Size 
+10	7252
+25	5869
+50	4588
+75	3586
+90	2900
+
+Size 	% <
+1	0
+10	0
+100	0
+1000	0
+
+Size 	% >
+1	100
+10	100
+100	100
+1000	100
+

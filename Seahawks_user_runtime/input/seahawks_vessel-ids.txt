@@ -1,0 +1,977 @@
+Vessel Name	Owner	Last Scan	Scan Type	Vessel ID	Vessel Name	Owner	Last Scan	Scan Type	Vessel ID	Vessel Name	Owner	Last Scan	Scan Type	Vessel ID	Vessel Name	Owner	Last Scan	Scan Type	Vessel ID	Analysis Definition Name	Analysis Type	Creator	Date Completed	Analysis ID	Analysis Notes	
+WT gfp, sc 2nd week 020422	dalmiron	2/4/2022 10:36 AM	Standard	812	
+WT Tt1	dalmiron	2/4/2022 10:17 AM	Non-Adherent Cell-by-Cell	814	
+WT #2 and t1	dalmiron	2/4/2022 9:57 AM	Non-Adherent Cell-by-Cell	813	
+143B_ATF4-rep-low_p3	kdavidse	2/4/2022 9:24 AM	Adherent Cell-by-Cell	808	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 9:43 AM	950		
+143B_ATF4-rep-low_p2	kdavidse	2/4/2022 9:12 AM	Adherent Cell-by-Cell	807	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 9:17 AM	949		
+143B_ATF4-rep-low_p1	kdavidse	2/4/2022 9:00 AM	Adherent Cell-by-Cell	806	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 9:15 AM	948		
+143B_ATF4-rep-low_p6	kdavidse	2/4/2022 8:30 AM	Adherent Cell-by-Cell	811	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 8:44 AM	953		
+143B_ATF4-rep-low_p5	kdavidse	2/4/2022 8:18 AM	Adherent Cell-by-Cell	810	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 8:33 AM	952		
+143B_ATF4-rep-low_p4	kdavidse	2/4/2022 8:06 AM	Adherent Cell-by-Cell	809	RFP-surface-fit	Basic Analyzer	kdavidse	2/4/2022 8:21 AM	951		
+HT1080-GOT-DKO_ATF4-rep-high_p4	kdavidse	2/3/2022 1:46 PM	Adherent Cell-by-Cell	803	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 1:59 PM	943		
+HT1080-GOT-DKO_ATF4-rep-high_p6	kdavidse	2/3/2022 12:40 PM	Adherent Cell-by-Cell	805	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 12:54 PM	945		
+HT1080-GOT-DKO_ATF4-rep-high_p5	kdavidse	2/3/2022 12:28 PM	Adherent Cell-by-Cell	804	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 12:43 PM	944		
+HT1080-GOT-DKO_ATF4-rep-high_p3	kdavidse	2/3/2022 12:04 PM	Adherent Cell-by-Cell	802	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 12:20 PM	942		
+HT1080-GOT-DKO_ATF4-rep-high_p2	kdavidse	2/3/2022 11:52 AM	Adherent Cell-by-Cell	801	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 12:08 PM	941		
+HT1080-GOT-DKO_ATF4-rep-high_p1	kdavidse	2/3/2022 11:40 AM	Adherent Cell-by-Cell	800	RFP-surface-fit	Basic Analyzer	kdavidse	2/3/2022 11:57 AM	940		
+wt and xfm g,s,2,t1,tt1	dalmiron	1/31/2022 2:00 PM	Scratch Wound	791	wt and xfm nsc wound trial#1 	Scratch Wound	dalmiron	2/1/2022 2:33 PM	938		
+tt1, wt	dalmiron	1/31/2022 1:42 PM	Non-Adherent Cell-by-Cell	799	
+HT1080-WT_ATF4-rep-high_ISRIB-test	kdavidse	1/31/2022 12:52 PM	Adherent Cell-by-Cell	796	RFP-surface-fit	Basic Analyzer	kdavidse	1/31/2022 1:15 PM	937		
+g and sc, WT	dalmiron	1/31/2022 11:41 AM	Non-Adherent Cell-by-Cell	797	
+143B-WT_ATF4-rep-high_ISRIB-test	kdavidse	1/31/2022 11:30 AM	Adherent Cell-by-Cell	795	RFP-surface-fit	Basic Analyzer	kdavidse	1/31/2022 11:46 AM	936		
+2 and t1, WT	dalmiron	1/31/2022 7:06 AM	Non-Adherent Cell-by-Cell	798	2 and t1 basic analyzer trial 1	Basic Analyzer	dalmiron	2/1/2022 3:08 PM	939		
+tt1	dalmiron	1/30/2022 5:44 PM	Non-Adherent Cell-by-Cell	794	
+2 and t1	dalmiron	1/30/2022 5:20 PM	Non-Adherent Cell-by-Cell	793	
+g and sc	dalmiron	1/30/2022 4:54 PM	Non-Adherent Cell-by-Cell	792	
+143B-ATF4-reporter-high_p6	kdavidse	1/27/2022 3:00 PM	Adherent Cell-by-Cell	790	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 3:14 PM	935		
+143B-ATF4-reporter-high_p5	kdavidse	1/27/2022 2:48 PM	Adherent Cell-by-Cell	789	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 3:03 PM	934		
+143B-ATF4-reporter-high_p4	kdavidse	1/27/2022 2:36 PM	Adherent Cell-by-Cell	788	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 2:51 PM	933		
+143B-ATF4-reporter-high_p3	kdavidse	1/27/2022 2:24 PM	Adherent Cell-by-Cell	787	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 2:39 PM	932		
+143B-ATF4-reporter-high_p2	kdavidse	1/27/2022 2:12 PM	Adherent Cell-by-Cell	786	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 2:28 PM	931		
+143B-ATF4-reporter-high_p1	kdavidse	1/27/2022 2:00 PM	Adherent Cell-by-Cell	785	RFP-surface-fit	Basic Analyzer	kdavidse	1/27/2022 2:15 PM	930		
+143B-ATF4-reporter-low_p6	kdavidse	1/24/2022 9:00 PM	Adherent Cell-by-Cell	784	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 9:13 PM	929		
+143B-ATF4-reporter-low_p5	kdavidse	1/24/2022 8:48 PM	Adherent Cell-by-Cell	783	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 9:02 PM	928		
+143B-ATF4-reporter-low_p4	kdavidse	1/24/2022 8:36 PM	Adherent Cell-by-Cell	782	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 8:50 PM	927		
+143B-ATF4-reporter-low_p3	kdavidse	1/24/2022 8:24 PM	Adherent Cell-by-Cell	781	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 8:39 PM	926		
+143B-ATF4-reporter-low_p2	kdavidse	1/24/2022 6:42 PM	Adherent Cell-by-Cell	780	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 6:57 PM	925		
+143B-ATF4-reporter-low_p1	kdavidse	1/24/2022 6:30 PM	Adherent Cell-by-Cell	779	RFP-surface-fit	Basic Analyzer	kdavidse	1/24/2022 6:45 PM	924		
+012022_Spheroid migration_plate 2	dkim23	1/22/2022 4:30 PM	Standard	778	Spheroid area	Basic Analyzer	dkim23	1/22/2022 4:33 PM	922		
+012022_Spheroid migration_plate 1	dkim23	1/22/2022 4:30 PM	Standard	777	Spheroid area	Basic Analyzer	dkim23	1/22/2022 4:32 PM	921		
+glass bottom plate test 001	ktanaka	1/19/2022 3:26 PM	Adherent Cell-by-Cell	775	
+plastic bottom plate test 001	ktanaka	1/19/2022 3:17 PM	Adherent Cell-by-Cell	773	C6 plastic test	Basic Analyzer	ktanaka	1/21/2022 5:05 PM	923	test analysis, C6 full well segmentation. mCherry o.k.? mCit larger than vis fluor area.	
+PN P493 limiting dilution 18jan	pnorwood	1/18/2022 10:40 AM	Whole Well	772	
+HT1080-WT_Asp-sensor_mito-inhib	kdavidse	1/18/2022 10:30 AM	Adherent Cell-by-Cell	770	GFP_SurfaceFit	Basic Analyzer	kdavidse	1/18/2022 1:45 PM	916		
+PN PSN1 Limiting dilution B7 1	pnorwood	1/18/2022 10:03 AM	Whole Well	771	
+111322_Spheroid migration_Pitstop,Dyngo	dkim23	1/14/2022 5:30 PM	Standard	769	Spheroid area	Basic Analyzer	dkim23	1/14/2022 5:32 PM	891		
+HT1080-GOT-DKO_cyto-Asp-sensor-A5	kdavidse	1/13/2022 1:00 PM	Adherent Cell-by-Cell	768	TMRE-NAO_1	Basic Analyzer	kdavidse	1/13/2022 1:30 PM	890		
+HT1080-WT_ATF4-rep-low_p6-3	kdavidse	1/12/2022 8:00 AM	Adherent Cell-by-Cell	767	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:54 PM	915		
+HT1080-WT_ATF4-rep-low_p6-3	kdavidse	1/12/2022 8:00 AM	Adherent Cell-by-Cell	767	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:47 PM	903		
+HT1080-WT_ATF4-rep-low_p6-3	kdavidse	1/12/2022 8:00 AM	Adherent Cell-by-Cell	767	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 8:14 AM	883		
+HT1080-WT_ATF4-rep-low_p5-3	kdavidse	1/12/2022 7:48 AM	Adherent Cell-by-Cell	766	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:42 PM	913		
+HT1080-WT_ATF4-rep-low_p5-3	kdavidse	1/12/2022 7:48 AM	Adherent Cell-by-Cell	766	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:41 PM	902		
+HT1080-WT_ATF4-rep-low_p5-3	kdavidse	1/12/2022 7:48 AM	Adherent Cell-by-Cell	766	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 8:05 AM	882		
+HT1080-WT_ATF4-rep-low_p4-3	kdavidse	1/12/2022 7:36 AM	Adherent Cell-by-Cell	765	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:48 PM	914		
+HT1080-WT_ATF4-rep-low_p4-3	kdavidse	1/12/2022 7:36 AM	Adherent Cell-by-Cell	765	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:36 PM	901		
+HT1080-WT_ATF4-rep-low_p4-3	kdavidse	1/12/2022 7:36 AM	Adherent Cell-by-Cell	765	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 7:52 AM	881		
+HT1080-WT_ATF4-rep-low_p3-3	kdavidse	1/12/2022 7:24 AM	Adherent Cell-by-Cell	764	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 3:58 PM	905		
+HT1080-WT_ATF4-rep-low_p3-3	kdavidse	1/12/2022 7:24 AM	Adherent Cell-by-Cell	764	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:30 PM	900		
+HT1080-WT_ATF4-rep-low_p3-3	kdavidse	1/12/2022 7:24 AM	Adherent Cell-by-Cell	764	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 7:40 AM	880		
+HT1080-WT_ATF4-rep-low_p2-3	kdavidse	1/12/2022 7:12 AM	Adherent Cell-by-Cell	763	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:36 PM	912		
+HT1080-WT_ATF4-rep-low_p2-3	kdavidse	1/12/2022 7:12 AM	Adherent Cell-by-Cell	763	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:25 PM	899		
+HT1080-WT_ATF4-rep-low_p2-3	kdavidse	1/12/2022 7:12 AM	Adherent Cell-by-Cell	763	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 7:29 AM	879		
+HT1080-WT_ATF4-rep-low_p1-3	kdavidse	1/12/2022 7:00 AM	Adherent Cell-by-Cell	762	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:31 PM	911		
+HT1080-WT_ATF4-rep-low_p1-3	kdavidse	1/12/2022 7:00 AM	Adherent Cell-by-Cell	762	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:20 PM	898		
+HT1080-WT_ATF4-rep-low_p1-3	kdavidse	1/12/2022 7:00 AM	Adherent Cell-by-Cell	762	TMRE_minus_bg	Basic Analyzer	kdavidse	1/12/2022 7:17 AM	878		
+HT1080-WT_ATF4-rep-high_p6-3	kdavidse	1/11/2022 10:00 AM	Adherent Cell-by-Cell	761	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:26 PM	910		
+HT1080-WT_ATF4-rep-high_p6-3	kdavidse	1/11/2022 10:00 AM	Adherent Cell-by-Cell	761	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:14 PM	897		
+HT1080-WT_ATF4-rep-high_p6-3	kdavidse	1/11/2022 10:00 AM	Adherent Cell-by-Cell	761	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 10:14 AM	877		
+HT1080-WT_ATF4-rep-high_p5-3	kdavidse	1/11/2022 9:48 AM	Adherent Cell-by-Cell	760	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:20 PM	909		
+HT1080-WT_ATF4-rep-high_p5-3	kdavidse	1/11/2022 9:48 AM	Adherent Cell-by-Cell	760	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:09 PM	896		
+HT1080-WT_ATF4-rep-high_p5-3	kdavidse	1/11/2022 9:48 AM	Adherent Cell-by-Cell	760	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 10:05 AM	876		
+HT1080-WT_ATF4-rep-high_p4-3	kdavidse	1/11/2022 9:36 AM	Adherent Cell-by-Cell	759	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:15 PM	908		
+HT1080-WT_ATF4-rep-high_p4-3	kdavidse	1/11/2022 9:36 AM	Adherent Cell-by-Cell	759	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 3:04 PM	895		
+HT1080-WT_ATF4-rep-high_p4-3	kdavidse	1/11/2022 9:36 AM	Adherent Cell-by-Cell	759	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 9:52 AM	875		
+HT1080-WT_ATF4-rep-high_p3-3	kdavidse	1/11/2022 9:24 AM	Adherent Cell-by-Cell	758	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:09 PM	907		
+HT1080-WT_ATF4-rep-high_p3-3	kdavidse	1/11/2022 9:24 AM	Adherent Cell-by-Cell	758	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 2:58 PM	894		
+HT1080-WT_ATF4-rep-high_p3-3	kdavidse	1/11/2022 9:24 AM	Adherent Cell-by-Cell	758	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 9:40 AM	874		
+HT1080-WT_ATF4-rep-high_p2-3	kdavidse	1/11/2022 9:12 AM	Adherent Cell-by-Cell	757	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 3:52 PM	904		
+HT1080-WT_ATF4-rep-high_p2-3	kdavidse	1/11/2022 9:12 AM	Adherent Cell-by-Cell	757	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 1:36 PM	893		
+HT1080-WT_ATF4-rep-high_p2-3	kdavidse	1/11/2022 9:12 AM	Adherent Cell-by-Cell	757	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 9:29 AM	873		
+HT1080-WT_ATF4-rep-high_p1-3	kdavidse	1/11/2022 9:00 AM	Adherent Cell-by-Cell	756	RFP-surface-fit	Basic Analyzer	kdavidse	1/16/2022 4:03 PM	906		
+HT1080-WT_ATF4-rep-high_p1-3	kdavidse	1/11/2022 9:00 AM	Adherent Cell-by-Cell	756	RFPall_Tophat	Basic Analyzer	kdavidse	1/16/2022 1:31 PM	892		
+HT1080-WT_ATF4-rep-high_p1-3	kdavidse	1/11/2022 9:00 AM	Adherent Cell-by-Cell	756	TMRE_minus_bg	Basic Analyzer	kdavidse	1/11/2022 9:17 AM	872		
+chemoattractant 24 well	vinamdar	1/10/2022 3:52 PM	Whole Well	755	
+Growth curve_phase	adiab	1/9/2022 3:25 PM	Standard	752	% proliferation_open ended	Basic Analyzer	adiab	1/9/2022 3:28 PM	871		
+Growth curve_phase	adiab	1/9/2022 3:25 PM	Standard	752	% proliferation	Basic Analyzer	adiab	1/7/2022 3:03 PM	870		
+Growth curve_phase	adiab	1/9/2022 3:25 PM	Standard	752	% proliferation	Basic Analyzer	adiab	1/7/2022 9:34 AM	869	measuring % proliferation in HCT116 WT, null and R mutant FBW7	
+HT1080-DKO_cyto-Asp-sensor	kdavidse	1/7/2022 12:54 PM	Adherent Cell-by-Cell	753	TMRE-NAO_1	Basic Analyzer	kdavidse	1/7/2022 1:17 PM	868		
+HT1080-DKO_cyto-Asp-sensor	kdavidse	1/7/2022 12:54 PM	Adherent Cell-by-Cell	753	TMRE_minus_bg	Basic Analyzer	kdavidse	1/7/2022 1:10 PM	866		
+HT1080-DKO_ATF4-reporter-low	kdavidse	1/7/2022 12:10 PM	Adherent Cell-by-Cell	754	TMRE_minus_bg	Basic Analyzer	kdavidse	1/7/2022 12:24 PM	867		
+143B-WT_ATF4-reporter-low_test	kdavidse	1/4/2022 12:15 PM	Adherent Cell-by-Cell	751	TMRE_minus_bg	Basic Analyzer	kdavidse	1/4/2022 12:39 PM	864		
+HT1080-GOT-DKO_cytoAsp_SSC_test	kdavidse	1/3/2022 5:35 PM	Adherent Cell-by-Cell	750	TMRE-NAO_1	Basic Analyzer	kdavidse	1/3/2022 5:44 PM	863		
+HT1080-GOT-DKO-cytoAsp-sensor_SSC	kdavidse	1/2/2022 3:55 PM	Adherent Cell-by-Cell	748	TMRE-NAO_1	Basic Analyzer	kdavidse	1/2/2022 4:08 PM	862		
+HT1080-DKO-ATF4-rep_SSC	kdavidse	1/2/2022 3:41 PM	Adherent Cell-by-Cell	747	TMRE-NAO_1	Basic Analyzer	kdavidse	1/2/2022 4:05 PM	861		
+143B-WT_ATF4-rep-high_ETCinhib-test	kdavidse	1/2/2022 1:00 PM	Adherent Cell-by-Cell	746	TMRE_minus_bg	Basic Analyzer	kdavidse	1/2/2022 1:24 PM	860		
+143B-ATF4rep_SSC	kdavidse	12/28/2021 7:49 PM	Standard	744	TMRE_minus_bg	Basic Analyzer	kdavidse	12/28/2021 7:58 PM	859		
+2021_12_21_FBSProlif_MMM	mmonlux	12/23/2021 9:32 AM	Adherent Cell-by-Cell	743	Training Analysis	Basic Analyzer	mmonlux	1/4/2022 5:01 PM	865		
+ACK-10	dstone	12/20/2021 11:34 AM	Whole Well	741	less sensitive Control 100000	Basic Analyzer	dstone	1/12/2022 11:37 AM	886		
+ACK-1	dstone	12/20/2021 11:14 AM	Whole Well	740	less sensitive Control 100000	Basic Analyzer	dstone	1/12/2022 11:46 AM	887		
+Rat-10	dstone	12/20/2021 10:52 AM	Whole Well	739	less sensitive Control 100000	Basic Analyzer	dstone	1/12/2022 11:54 AM	888		
+Rat-1	dstone	12/20/2021 10:28 AM	Whole Well	738	less sensitive Control 100000	Basic Analyzer	dstone	1/12/2022 12:03 PM	889		
+Control	dstone	12/20/2021 10:10 AM	Whole Well	737	less sensitive Control 100000	Basic Analyzer	dstone	1/12/2022 11:24 AM	885		
+Control	dstone	12/20/2021 10:10 AM	Whole Well	737	copy of Control 100000 from Mariners	Basic Analyzer	dstone	1/12/2022 10:54 AM	884		
+HT1080-WT_ATF4-reporter_test2	kdavidse	12/20/2021 9:20 AM	Adherent Cell-by-Cell	736	TMRE_minus_bg	Basic Analyzer	kdavidse	12/20/2021 9:34 AM	858		
+HT1080-WT_ATF4-reporter_ETCinhib-test	kdavidse	12/18/2021 1:30 PM	Adherent Cell-by-Cell	735	TMRE_minus_bg	Basic Analyzer	kdavidse	12/18/2021 1:44 PM	857		
+xfm NSC NT_top (2nd assay late)	dalmiron	12/15/2021 12:19 PM	Non-Adherent Cell-by-Cell	734	
+xfm NSC sc_top vs #2_bottom (late_2ns assay)	dalmiron	12/15/2021 11:00 AM	Non-Adherent Cell-by-Cell	733	
+NT(top), sc(middle) , #2(bottom)	dalmiron	12/14/2021 11:01 AM	Whole Well	730	
+NT(top), sc(middle), #2 (bottom)	dalmiron	12/14/2021 10:28 AM	Whole Well	729	
+NT_100k,sC_20k,sH_20k, NT_20k	dalmiron	12/14/2021 10:01 AM	Adherent Cell-by-Cell	717	
+HEK STS	hochoamo	12/11/2021 12:01 PM	Adherent Cell-by-Cell	732	Adhecent-cell-to-cell	Adherent Cell-by-Cell	hochoamo	12/10/2021 8:14 PM	856		
+HEK STS	hochoamo	12/11/2021 12:01 PM	Adherent Cell-by-Cell	732	PCI, GFP, HEK_Copy	Basic Analyzer	hochoamo	12/10/2021 3:45 PM	854		
+PCI HEK	hochoamo	12/11/2021 11:43 AM	Adherent Cell-by-Cell	731	Adhecent-cell-to-cell	Adherent Cell-by-Cell	hochoamo	12/10/2021 6:59 PM	855		
+PCI HEK	hochoamo	12/11/2021 11:43 AM	Adherent Cell-by-Cell	731	PCI, GFP, HEK	Basic Analyzer	hochoamo	12/10/2021 2:53 PM	853		
+xfm NSC PDGFB_shT1 (top 3) vs PDGFB_sC (botton3)	dalmiron	12/7/2021 12:46 PM	Non-Adherent Cell-by-Cell	716	
+xfm NSC NT	dalmiron	12/7/2021 11:21 AM	Non-Adherent Cell-by-Cell	718	
+HT1080_Asp-sensor_mito	kdavidse	12/3/2021 8:01 PM	Adherent Cell-by-Cell	728	KD_TMRE	Basic Analyzer	kdavidse	12/3/2021 8:32 PM	852		
+HT1080_Asp-sensor_cyto	kdavidse	12/3/2021 6:23 PM	Adherent Cell-by-Cell	727	KD_TMRE-NAO	Basic Analyzer	kdavidse	12/3/2021 7:03 PM	851		
+H1299-DKO_ATF4-reporter	kdavidse	12/3/2021 6:01 PM	Adherent Cell-by-Cell	726	KD_TMRE-NAO	Basic Analyzer	kdavidse	12/3/2021 6:40 PM	850		
+DKO_Asp-sensor_mito	kdavidse	12/3/2021 4:23 PM	Adherent Cell-by-Cell	725	KD_TMRE-NAO	Basic Analyzer	kdavidse	12/3/2021 5:02 PM	849		
+H1299-DKO_Asp-sensor_cyto	kdavidse	12/3/2021 4:01 PM	Adherent Cell-by-Cell	724	KD_TMRE-NAO	Basic Analyzer	kdavidse	12/3/2021 4:40 PM	848		
+ATF4-reporter	kdavidse	12/3/2021 2:16 PM	Adherent Cell-by-Cell	722	TMRE-NAO_1	Basic Analyzer	kdavidse	12/3/2021 2:29 PM	847		
+Asp-sensor_mito	kdavidse	12/3/2021 2:02 PM	Adherent Cell-by-Cell	721	TMRE-NAO_1	Basic Analyzer	kdavidse	12/3/2021 2:23 PM	846		
+Asp-sensor_cyto	kdavidse	12/3/2021 1:36 PM	Adherent Cell-by-Cell	719	TMRE-NAO_1	Basic Analyzer	kdavidse	12/3/2021 1:43 PM	845		
+20211122 athelen RG2316 PANC1 MESO530 plate3	athelen	11/30/2021 10:25 AM	Non-Adherent Cell-by-Cell	710	20211201 athelen T cell count RG2495 p3	Non-Adherent Cell-by-Cell	athelen	12/2/2021 4:35 PM	844		
+20211122 athelen RG2316 PANC1 MESO530 plate3	athelen	11/30/2021 10:25 AM	Non-Adherent Cell-by-Cell	710	20211129 athelen red object area RG2316 panc1 p3	Basic Analyzer	athelen	11/30/2021 2:17 AM	841		
+20211122 athelen RG2316 PANC1 MESO530 plate2	athelen	11/30/2021 10:05 AM	Non-Adherent Cell-by-Cell	709	20211201 athelen T cell count RG2495 p3	Non-Adherent Cell-by-Cell	athelen	2/3/2022 12:48 AM	946		
+20211122 athelen RG2316 PANC1 MESO530 plate2	athelen	11/30/2021 10:05 AM	Non-Adherent Cell-by-Cell	709	20211129 athelen red object area RG2316 panc1 p3	Basic Analyzer	athelen	1/20/2022 3:20 AM	917		
+20211122 athelen RG2316 PANC1 MESO530 plate1	athelen	11/30/2021 9:45 AM	Non-Adherent Cell-by-Cell	708	20211201 athelen T cell count RG2495 p3	Non-Adherent Cell-by-Cell	athelen	2/3/2022 8:58 AM	947		
+20211122 athelen RG2316 PANC1 MESO530 plate1	athelen	11/30/2021 9:45 AM	Non-Adherent Cell-by-Cell	708	20211129 athelen red object area RG2316 panc1 p3	Basic Analyzer	athelen	1/20/2022 6:53 PM	919		
+20211122 athelen RG2495 PANC1 MESO530 plate2	athelen	11/30/2021 7:26 AM	Non-Adherent Cell-by-Cell	713	20211129 athelen red object area RG2495 panc1 p3	Basic Analyzer	athelen	1/20/2022 10:58 AM	918		
+20211122 athelen RG2495 PANC1 MESO530 plate1	athelen	11/30/2021 7:06 AM	Non-Adherent Cell-by-Cell	712	20211129 athelen red object area RG2495 panc1 p3	Basic Analyzer	athelen	1/21/2022 2:59 AM	920		
+20211122 athelen RG2495 PANC1 MESO530 plate3	athelen	11/30/2021 6:45 AM	Non-Adherent Cell-by-Cell	711	20211201 athelen T cell count RG2495 p3	Non-Adherent Cell-by-Cell	athelen	12/2/2021 4:35 AM	843		
+20211122 athelen RG2495 PANC1 MESO530 plate3	athelen	11/30/2021 6:45 AM	Non-Adherent Cell-by-Cell	711	20211129 athelen red object area RG2495 panc1 p3	Basic Analyzer	athelen	11/30/2021 10:44 AM	842		
+adherent cell plate #2_setup by JM	jmeng2	11/22/2021 9:29 AM	Adherent Cell-by-Cell	705	
+sphere plate #2_setup by JM	jmeng2	11/22/2021 9:03 AM	Standard	707	
+sphere control plate_setup by JM	jmeng2	11/22/2021 7:59 AM	Standard	706	
+adherent cell control plate SC_setup by JM	jmeng2	11/22/2021 4:34 AM	Adherent Cell-by-Cell	704	
+111221_Spheroid migration_plate 2	dkim23	11/12/2021 11:30 PM	Standard	694	Spheroid area	Basic Analyzer	dkim23	11/12/2021 11:46 PM	840		
+111221_Spheroid migration_plate 1	dkim23	11/12/2021 11:30 PM	Standard	693	Spheroid area	Basic Analyzer	dkim23	11/12/2021 11:45 PM	839		
+111221_Spheroid migration_plate 2	dkim23	11/12/2021 5:45 PM	Standard	692	Spheroid area	Basic Analyzer	dkim23	11/12/2021 5:53 PM	838		
+111221_Spheroid migration_plate 1	dkim23	11/12/2021 5:45 PM	Standard	691	Spheroid area	Basic Analyzer	dkim23	11/12/2021 5:51 PM	837		
+Plate 4 HeLa ARF KO	kfuriya	11/12/2021 3:00 PM	Non-Adherent Cell-by-Cell	690	8Nov2021 kfuriya p53 HeLa KO NucG Plate 4	Basic Analyzer	kfuriya	11/12/2021 4:22 PM	836		
+Plate 3 HeLa ARF KO	kfuriya	11/12/2021 3:00 PM	Non-Adherent Cell-by-Cell	689	8Nov2021 kfuriya p53 HeLa KO NucG Plate 3	Basic Analyzer	kfuriya	11/12/2021 4:12 PM	835		
+Plate 2 HeLa WT	kfuriya	11/12/2021 3:00 PM	Non-Adherent Cell-by-Cell	688	8Nov2021 kfuriya p53 HeLa WT NucG Plate 2	Basic Analyzer	kfuriya	11/12/2021 4:05 PM	834		
+Plate 1 HeLa WT	kfuriya	11/12/2021 3:00 PM	Non-Adherent Cell-by-Cell	687	8Nov2021 kfuriya p53 HeLa WT NucG Plate 1	Basic Analyzer	kfuriya	11/12/2021 3:55 PM	833		
+110321_Spheroid migration	dkim23	11/5/2021 11:30 AM	Standard	686	Spheroid area	Basic Analyzer	dkim23	11/5/2021 11:32 AM	832		
+102921_Spheroid migration_Basal,MMC,VP,22	dkim23	10/31/2021 4:15 PM	Standard	685	Spheroid area	Basic Analyzer	dkim23	10/31/2021 4:18 PM	831		
+102921_Spheroid migration_Basal,MMC,VP,22	dkim23	10/29/2021 4:00 PM	Standard	684	Spheroid area	Basic Analyzer	dkim23	10/29/2021 4:05 PM	830		
+HT1080_2xGOT-KO_TMRE_Asp-titration_p2	kdavidse	10/29/2021 3:35 PM	Adherent Cell-by-Cell	679	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 3:38 PM	825		
+HT1080_2xGOT-KO_TMRE_Asp-titration_p1	kdavidse	10/29/2021 2:50 PM	Adherent Cell-by-Cell	678	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 2:53 PM	824		
+HT1080_2xGOT-KO_TMRE_Asp-titration_p3	kdavidse	10/29/2021 2:30 PM	Adherent Cell-by-Cell	680	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 2:33 PM	829		
+HT1080_2xGOT-KO_TMRE_BAM15-titration_p3	kdavidse	10/29/2021 2:10 PM	Adherent Cell-by-Cell	683	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 2:13 PM	828		
+HT1080_2xGOT-KO_TMRE_BAM15-titration_p2	kdavidse	10/29/2021 2:05 PM	Adherent Cell-by-Cell	682	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 2:08 PM	827		
+HT1080_2xGOT-KO_TMRE_BAM15-titration_p1	kdavidse	10/29/2021 2:00 PM	Adherent Cell-by-Cell	681	TMRE_minus_bg	Basic Analyzer	kdavidse	10/29/2021 2:03 PM	826		
+TMRE-NAO_BAM15_24w	kdavidse	10/25/2021 8:00 PM	Adherent Cell-by-Cell	677	TMRE-NAO_1	Basic Analyzer	kdavidse	10/25/2021 8:08 PM	819		
+TMRE-NAO_BAM15_12w	kdavidse	10/25/2021 7:55 PM	Adherent Cell-by-Cell	676	TMRE-NAO_1	Basic Analyzer	kdavidse	10/25/2021 8:00 PM	818		
+TMRE-NAO_BAM15_6w	kdavidse	10/25/2021 7:50 PM	Adherent Cell-by-Cell	675	TMRE-NAO_1	Basic Analyzer	kdavidse	10/25/2021 7:53 PM	817		
+TMRE-NAO_BAM15-titration	kdavidse	10/22/2021 7:55 PM	Adherent Cell-by-Cell	674	TMRE-NAO_1	Basic Analyzer	kdavidse	10/22/2021 8:00 PM	815		
+TMRE-NAO_Antimycin-titration	kdavidse	10/22/2021 7:50 PM	Adherent Cell-by-Cell	673	TMRE-NAO_1	Basic Analyzer	kdavidse	10/22/2021 7:55 PM	816		
+TMRE-NAO_titration_p2	kdavidse	10/22/2021 7:35 PM	Adherent Cell-by-Cell	672	
+TMRE-NAO_titration_p1	kdavidse	10/22/2021 7:29 PM	Adherent Cell-by-Cell	671	
+Frick_IncuCyte_10_20_21_plain	jfrick	10/21/2021 1:41 PM	Non-Adherent Cell-by-Cell	670	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	10/27/2021 6:15 PM	821		
+Frick_IncuCyte_10_20_21_plain	jfrick	10/21/2021 1:41 PM	Non-Adherent Cell-by-Cell	670	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	10/27/2021 3:16 PM	820		
+Frick_IncuCyte_10_20_21_Zeo	jfrick	10/21/2021 1:32 PM	Non-Adherent Cell-by-Cell	669	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	10/27/2021 11:36 PM	823		
+Frick_IncuCyte_10_20_21_Zeo	jfrick	10/21/2021 1:32 PM	Non-Adherent Cell-by-Cell	669	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	10/27/2021 8:56 PM	822		
+SCC74A_Whole Well_96	hgem	10/19/2021 11:07 AM	Whole Well	666	
+15A/B_Whole Well_96	hgem	10/19/2021 10:32 AM	Whole Well	663	
+SCC74A_24well	hgem	10/18/2021 4:33 PM	Whole Well	661	
+SCC1_24well	hgem	10/18/2021 4:06 PM	Whole Well	660	SCC1_24well_101821	Basic Analyzer	hgem	10/18/2021 4:54 PM	814		
+15A/B_24well	hgem	10/18/2021 3:40 PM	Whole Well	659	15A/B_24well_101821	Basic Analyzer	hgem	10/18/2021 4:37 PM	813		
+MCF7_24well	hgem	10/18/2021 3:14 PM	Whole Well	658	MCF7_24well_101821	Basic Analyzer	hgem	10/18/2021 4:25 PM	812		
+20211005 athelen Msln KP GFP with B6 T cells p2	athelen	10/11/2021 4:50 PM	Non-Adherent Cell-by-Cell	657	
+20211005 athelen Msln KP GFP with B6 T cells p1	athelen	10/11/2021 4:30 PM	Non-Adherent Cell-by-Cell	656	
+kdlacour_MC38 and CT26	kdlacour	10/4/2021 12:30 PM	Standard	655	MC38 and CT26 5-FU Dose Response Curve	Basic Analyzer	kdlacour	10/4/2021 3:13 PM	809		
+100121 RPE1 nucleofection	ehatch	10/1/2021 10:32 AM	Standard	653	ehatch RPE1 GFP siR-DNA_091721	Basic Analyzer	ehatch	10/1/2021 10:43 AM	807		
+100121 RPE1 48h transfection ehatch	ehatch	10/1/2021 10:28 AM	Standard	651	ehatch RPE1 GFP siR-DNA_091721	Basic Analyzer	ehatch	10/1/2021 10:45 AM	808		
+100121 RPE1 48h transfection ehatch	ehatch	10/1/2021 10:28 AM	Standard	651	ehatch RPE1 GFP siR-DNA_091721	Basic Analyzer	ehatch	10/1/2021 10:35 AM	806		
+20210924 athelen WT1 468 plate 3	athelen	10/1/2021 7:03 AM	Non-Adherent Cell-by-Cell	650	20211014 athelen t cell count	Non-Adherent Cell-by-Cell	athelen	10/16/2021 12:20 AM	811		
+20210924 athelen WT1 468 plate 3	athelen	10/1/2021 7:03 AM	Non-Adherent Cell-by-Cell	650	20211014 ATHELEN RED TUMOR AREA ANALYSIS	Basic Analyzer	athelen	10/14/2021 11:09 PM	810		
+20210924 athelen WT1 468 plate 2	athelen	10/1/2021 6:41 AM	Non-Adherent Cell-by-Cell	649	
+20210924 athelen WT1 468 plate 1	athelen	10/1/2021 6:20 AM	Non-Adherent Cell-by-Cell	648	
+2xGOT-KO_BAM15-titration_TMRE-NAO_p2	kdavidse	9/17/2021 5:56 PM	Adherent Cell-by-Cell	647	TMRE-NAO_2	Basic Analyzer	kdavidse	9/17/2021 6:01 PM	802		
+2xGOT-KO_BAM15-titration_TMRE-NAO_p1	kdavidse	9/17/2021 5:50 PM	Adherent Cell-by-Cell	646	TMRE-NAO_2	Basic Analyzer	kdavidse	9/17/2021 5:55 PM	803		
+RPE1 48h tf 091721	ehatch	9/17/2021 1:05 PM	Standard	644	ehatch RPE1 GFP siR-DNA_091721	Basic Analyzer	ehatch	9/17/2021 1:30 PM	800	updated GFP parameters for tf positive nuclei	
+RPE1 48h tf 091721	ehatch	9/17/2021 1:05 PM	Standard	644	ehatch RPE1 GFP siR-DNA	Basic Analyzer	ehatch	9/17/2021 1:11 PM	799		
+ehatch 091621 RPE1_transfection	ehatch	9/16/2021 4:31 PM	Adherent Cell-by-Cell	642	ehatch RPE1 GFP siR-DNA	Basic Analyzer	ehatch	9/16/2021 4:55 PM	798		
+TE-71 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	641	Apoptosis Cell-by-Cell_green	Adherent Cell-by-Cell	kcooper2	9/29/2021 3:45 AM	805	Changed segmenation to Surface Fit No Mask	
+TE-71 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	641	Apoptosis_adaptive	Basic Analyzer	kcooper2	9/28/2021 9:02 PM	804	Green channel shanged segmentation to adaptive	
+TE-71 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	641	Apoptosis cellbycell	Adherent Cell-by-Cell	kcooper2	9/15/2021 4:47 PM	796		
+TE-71 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	641	Apoptosis	Basic Analyzer	kcooper2	9/13/2021 6:09 PM	794		
+C9 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	640	Apoptosis C9 cellbycell	Adherent Cell-by-Cell	kcooper2	9/15/2021 11:50 PM	797		
+C9 Apoptosis	kcooper2	9/10/2021 3:45 PM	Adherent Cell-by-Cell	640	Apoptosis_C9	Basic Analyzer	kcooper2	9/13/2021 11:01 PM	795		
+090521_Spheroid migration_plate 1	dkim23	9/8/2021 2:50 PM	Standard	638	Spheroid area	Basic Analyzer	dkim23	9/8/2021 2:51 PM	792		
+090521_Spheroid migration_plate 2	dkim23	9/7/2021 6:00 PM	Standard	639	Spheroid area	Basic Analyzer	dkim23	9/7/2021 6:04 PM	793		
+090521_Spheroid migration_plate 2	dkim23	9/5/2021 5:45 PM	Standard	637	Spheroid area	Basic Analyzer	dkim23	9/5/2021 5:49 PM	791		
+090521_Spheroid migration_plate 1	dkim23	9/5/2021 5:40 PM	Standard	636	Spheroid area	Basic Analyzer	dkim23	9/5/2021 5:42 PM	790		
+20210823 athelen plate4 MESO530 PANC1	athelen	8/30/2021 12:20 PM	Non-Adherent Cell-by-Cell	635	
+20210823 athelen plate3 MESO530 PANC1	athelen	8/30/2021 12:00 PM	Non-Adherent Cell-by-Cell	634	
+20210823 athelen plate2 MESO530 PANC1	athelen	8/30/2021 11:40 AM	Non-Adherent Cell-by-Cell	633	
+20210823 athelen plate1 MESO530 PANC1	athelen	8/30/2021 11:20 AM	Non-Adherent Cell-by-Cell	632	
+TMRE_test-NAO	kdavidse	8/21/2021 3:00 AM	Adherent Cell-by-Cell	631		CbC_NAO-TMRE	Adherent Cell-by-Cell	kdavidse	8/23/2021 4:15 PM	788		
+TMRE_test-NAO	kdavidse	8/21/2021 3:00 AM	Adherent Cell-by-Cell	631		TMRE-NAO_overlap	Basic Analyzer	kdavidse	8/23/2021 4:01 PM	787		
+TMRE_test-NAO	kdavidse	8/21/2021 3:00 AM	Adherent Cell-by-Cell	631		KD_TMRE-NAO	Basic Analyzer	kdavidse	8/21/2021 10:03 PM	784		
+TMRE_test	kdavidse	8/20/2021 10:00 PM	Adherent Cell-by-Cell	630	KD_TMRE-3	Basic Analyzer	kdavidse	8/22/2021 8:21 PM	786		
+TMRE_test	kdavidse	8/20/2021 10:00 PM	Adherent Cell-by-Cell	630	KD_TMRE-2	Basic Analyzer	kdavidse	8/22/2021 7:42 PM	785		
+TMRE_test	kdavidse	8/20/2021 10:00 PM	Adherent Cell-by-Cell	630	KD_TMRE_1	Basic Analyzer	kdavidse	8/20/2021 10:35 PM	783		
+081221_Spheroid migration_plate2	dkim23	8/14/2021 2:00 PM	Standard	629	Spheroid area	Basic Analyzer	dkim23	8/14/2021 2:05 PM	782		
+081221_Spheroid migration_plate1	dkim23	8/14/2021 2:00 PM	Standard	628	Spheroid area	Basic Analyzer	dkim23	8/14/2021 2:03 PM	781		
+P1_P7_P13_P19	kdavidse	8/10/2021 6:12 PM	Adherent Cell-by-Cell	622	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 6:42 PM	775		
+P6_P12_P18	kdavidse	8/10/2021 5:49 PM	Adherent Cell-by-Cell	627	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 8:14 PM	780		
+P5_P11_P17	kdavidse	8/10/2021 5:36 PM	Adherent Cell-by-Cell	626	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 7:15 PM	779		
+P4_P10_P16	kdavidse	8/10/2021 5:23 PM	Adherent Cell-by-Cell	625	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 6:13 PM	778		
+P3_P9_P15	kdavidse	8/10/2021 5:09 PM	Adherent Cell-by-Cell	624	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 5:54 PM	777		
+P2_P8_P14	kdavidse	8/10/2021 4:56 PM	Adherent Cell-by-Cell	623	Cell-by-cell Cells	Adherent Cell-by-Cell	kdavidse	8/10/2021 5:33 PM	776		
+20210808 athelen mouse KP lines GFP	athelen	8/8/2021 1:35 PM	Adherent Cell-by-Cell	621	
+07302021-MDA-MB-231 Aml+Chemo-1	szhu23	8/2/2021 6:00 PM	Adherent Cell-by-Cell	617	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	8/3/2021 12:09 AM	768		
+07302021-MDA-MB-231 Aml+Chemo-1	szhu23	8/2/2021 6:00 PM	Adherent Cell-by-Cell	617	szhu23-YOYO3	Basic Analyzer	szhu23	8/2/2021 6:38 PM	764		
+07302021-MCF-7 Aml+Chemo-1	szhu23	8/2/2021 6:00 PM	Adherent Cell-by-Cell	616	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	8/2/2021 6:50 PM	767		
+07302021-MCF-7 Aml+Chemo-1	szhu23	8/2/2021 6:00 PM	Adherent Cell-by-Cell	616	szhu23-YOYO3	Basic Analyzer	szhu23	8/2/2021 6:31 PM	763		
+07302021-MCF-7 mDAAO-H2O2	szhu23	8/2/2021 5:22 PM	Adherent Cell-by-Cell	620	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	8/3/2021 5:32 PM	772		
+07302021-MCF-7 mDAAO-H2O2	szhu23	8/2/2021 5:22 PM	Adherent Cell-by-Cell	620	szhu23-YOYO3	Basic Analyzer	szhu23	8/3/2021 4:00 PM	771		
+07302021-MDA-MB-231 Aml+Chemo-2	szhu23	8/2/2021 4:33 PM	Adherent Cell-by-Cell	619	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	8/3/2021 3:19 PM	770		
+07302021-MDA-MB-231 Aml+Chemo-2	szhu23	8/2/2021 4:33 PM	Adherent Cell-by-Cell	619	szhu23-YOYO3	Basic Analyzer	szhu23	8/2/2021 5:22 PM	766		
+07302021-MCF-7 Aml+Chemo-2	szhu23	8/2/2021 4:33 PM	Adherent Cell-by-Cell	618	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	8/3/2021 7:24 AM	769		
+07302021-MCF-7 Aml+Chemo-2	szhu23	8/2/2021 4:33 PM	Adherent Cell-by-Cell	618	szhu23-YOYO3	Basic Analyzer	szhu23	8/2/2021 5:15 PM	765		
+Frick_IncuCyte_hGO_7_29_21	jfrick	7/30/2021 10:03 AM	Non-Adherent Cell-by-Cell	615	
+Frick_IncuCyte_AGS_7_29_21	jfrick	7/29/2021 9:55 AM	Non-Adherent Cell-by-Cell	614	
+07272021-MCF-7 mCAT-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	613	szhu23-YOYO3	Basic Analyzer	szhu23	7/29/2021 1:45 PM	760		
+07272021-MCF-7 mCAT-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	613	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	7/29/2021 9:18 AM	757		
+07272021-MDA-MB-231 Parental-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	612	szhu23-YOYO3	Basic Analyzer	szhu23	7/29/2021 11:05 AM	759		
+07272021-MDA-MB-231 Parental-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	612	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	7/29/2021 9:11 AM	755		
+07272021-MCF-7 Parental-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	611	szhu23-YOYO3	Basic Analyzer	szhu23	7/29/2021 9:26 AM	758		
+07272021-MCF-7 Parental-AML+H2O2	szhu23	7/29/2021 8:00 AM	Adherent Cell-by-Cell	611	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	7/29/2021 8:54 AM	753		
+07232021-MDA-MB-231 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	609	szhu23-YOYO3	Basic Analyzer	szhu23	7/29/2021 9:46 PM	762		
+07232021-MDA-MB-231 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	609	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	7/24/2021 8:48 PM	748		
+07232021-MDA-MB-231 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	609	szhu23-Red_Copy_Copy	Basic Analyzer	szhu23	7/24/2021 8:37 PM	747		
+07232021-MCF-7 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	608	szhu23-YOYO3	Basic Analyzer	szhu23	7/29/2021 5:56 PM	761		
+07232021-MCF-7 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	608	szhu23-Red_Copy_Copy	Basic Analyzer	szhu23	7/24/2021 10:39 PM	749		
+07232021-MCF-7 Aml+H2O2	szhu23	7/24/2021 8:00 PM	Adherent Cell-by-Cell	608	szhu23-Adherent cellbycell-Red	Adherent Cell-by-Cell	szhu23	7/24/2021 8:31 PM	746		
+KGA1 DLK1 072121	kjohnso3	7/21/2021 11:18 AM	Non-Adherent Cell-by-Cell	606	Kg1a	Basic Analyzer	kjohnso3	7/21/2021 11:40 AM	745		
+P5-11-17-23-29	kdavidse	7/17/2021 7:24 PM	Standard	604	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 7:47 PM	743		
+P4-10-16-22-28	kdavidse	7/17/2021 7:08 PM	Standard	603	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 7:35 PM	742		
+P3-9-15-21-27	kdavidse	7/17/2021 6:52 PM	Standard	602	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 7:19 PM	741		
+P2-8-14-20-26	kdavidse	7/17/2021 6:36 PM	Standard	601	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 7:04 PM	740		
+P1-7-13-19-25	kdavidse	7/17/2021 6:20 PM	Standard	600	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 6:48 PM	739		
+P6-12-18-24	kdavidse	7/17/2021 5:40 PM	Standard	605	KD_Nuc-RFP	Basic Analyzer	kdavidse	7/17/2021 6:03 PM	744		
+071221_Spheroid migration_plate 2	dkim23	7/14/2021 1:05 PM	Standard	593	Spheroid area	Basic Analyzer	dkim23	7/14/2021 1:10 PM	738		
+071221_Spheroid migration_plate 1	dkim23	7/14/2021 1:05 PM	Standard	592	Spheroid area	Basic Analyzer	dkim23	7/14/2021 1:09 PM	737		
+Frick_IncuCyte_7_8_21_cell	jfrick	7/9/2021 9:49 AM	Non-Adherent Cell-by-Cell	591	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	7/9/2021 10:50 PM	736		
+Frick_IncuCyte_7_8_21_cell	jfrick	7/9/2021 9:49 AM	Non-Adherent Cell-by-Cell	591	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	7/9/2021 8:00 PM	735		
+Frick_IncuCyte_7_8_21_sup	jfrick	7/9/2021 9:42 AM	Non-Adherent Cell-by-Cell	590	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	7/9/2021 5:12 PM	734		
+Frick_IncuCyte_7_8_21_sup	jfrick	7/9/2021 9:42 AM	Non-Adherent Cell-by-Cell	590	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	7/9/2021 2:03 PM	733		
+20210702 athelen KP plate 1	athelen	7/7/2021 11:05 AM	Non-Adherent Cell-by-Cell	589	
+20210702 athelen KP plate 2	athelen	7/7/2021 10:07 AM	Non-Adherent Cell-by-Cell	588	
+20210702 athelen CFPAC KRAS TCR2 pAT078/079 plate2	athelen	7/5/2021 12:44 PM	Non-Adherent Cell-by-Cell	587	
+20210702 athelen CFPAC KRAS TCR2 pAT078/079 plate1	athelen	7/5/2021 12:20 PM	Non-Adherent Cell-by-Cell	586	
+Frick_IncuCyte_7_1_21	jfrick	7/2/2021 9:12 AM	Non-Adherent Cell-by-Cell	585	AGS_mKate2_General	Non-Adherent Cell-by-Cell	jfrick	7/2/2021 5:08 PM	726		
+Frick_IncuCyte_7_1_21	jfrick	7/2/2021 9:12 AM	Non-Adherent Cell-by-Cell	585	AGS_mKate2_RoundCell	Non-Adherent Cell-by-Cell	jfrick	7/2/2021 9:34 AM	725		
+063021	dkim23	7/1/2021 8:30 AM	Standard	584	
+063021	dkim23	6/30/2021 4:25 PM	Standard	583	
+062821_Spheroid migration_plate 4	dkim23	6/30/2021 2:15 PM	Standard	582	Spheroid area	Basic Analyzer	dkim23	6/30/2021 2:23 PM	722		
+062821_Spheroid migration_plate 3	dkim23	6/30/2021 2:15 PM	Standard	581	Spheroid area	Basic Analyzer	dkim23	6/30/2021 2:22 PM	721		
+062821_Spheroid migration_plate 2	dkim23	6/30/2021 2:15 PM	Standard	580	Spheroid area	Basic Analyzer	dkim23	6/30/2021 2:25 PM	724		
+062821_Spheroid migration_plate 1	dkim23	6/30/2021 2:15 PM	Standard	579	Spheroid area	Basic Analyzer	dkim23	6/30/2021 2:24 PM	723		
+20210622 athelen RG2118 pAT076 pAT077 plate 2	athelen	6/28/2021 12:32 PM	Non-Adherent Cell-by-Cell	572	
+20210622 athelen RG2118 pAT076 pAT077 plate 1	athelen	6/28/2021 12:10 PM	Non-Adherent Cell-by-Cell	571	20210218 athelen 2710 T cell non-adh cell by _Copy	Non-Adherent Cell-by-Cell	athelen	7/7/2021 3:20 PM	732		
+20210622 athelen RG2118 pAT076 pAT077 plate 1	athelen	6/28/2021 12:10 PM	Non-Adherent Cell-by-Cell	571	20210218 athelen 2710 Total Red Area MDA-MB-4_Copy	Basic Analyzer	athelen	7/7/2021 12:58 AM	731		
+20210624_7779_A11KRAS_Plate 3_TM	tmartino	6/28/2021 11:25 AM	Standard	577	20210624 SNU601 Cytolight_TM	Basic Analyzer	tmartino	7/3/2021 12:13 AM	729		
+20210624_6119_A11KRAS_Plate 2_TM	tmartino	6/28/2021 11:25 AM	Standard	575	20210624 SW527 NucRed_TM	Basic Analyzer	tmartino	7/2/2021 9:53 PM	728		
+20210624_6119_A11KRAS_Plate 4_TM	tmartino	6/28/2021 11:02 AM	Standard	578	20210624 SNU601 Cytolight_TM	Basic Analyzer	tmartino	7/3/2021 2:45 AM	730		
+20210624_7779_A11KRAS_Plate 1_TM	tmartino	6/28/2021 11:02 AM	Standard	576	20210624 SW527 NucRed_TM	Basic Analyzer	tmartino	7/2/2021 7:32 PM	727		
+20210622 athelen WT1-37 human T cells KP A2 green	athelen	6/24/2021 2:00 PM	Non-Adherent Cell-by-Cell	573	
+20210622 athelen WT1-37 human CT CFSE with KP A2	athelen	6/24/2021 11:15 AM	Adherent Cell-by-Cell	574	
+Frick_Incucyte6_21_21_50K	jfrick	6/22/2021 9:40 AM	Non-Adherent Cell-by-Cell	570	AGS_mKate2_General	Non-Adherent Cell-by-Cell	jfrick	6/23/2021 4:05 AM	715		
+Frick_Incucyte6_21_21_50K	jfrick	6/22/2021 9:40 AM	Non-Adherent Cell-by-Cell	570	AGS_mKate2_RoundCell	Non-Adherent Cell-by-Cell	jfrick	6/22/2021 8:33 PM	714		
+061821 Kasumi-1pRRL 032521IF 2%FBS_SBI_Tm_MS2	xwu2	6/21/2021 8:00 AM	Non-Adherent Cell-by-Cell	557	xwu2_Kasumi-1_1	Non-Adherent Cell-by-Cell	xwu2	6/21/2021 8:24 AM	713		
+061821 Kasumi-1pRRL 032321IF 2%FBS_SBI_Tm_MS2	xwu2	6/21/2021 8:00 AM	Non-Adherent Cell-by-Cell	556	xwu2_Kasumi-1_1	Non-Adherent Cell-by-Cell	xwu2	6/21/2021 8:18 AM	712		
+test 210610-2	jbutler	6/20/2021 4:38 PM	Standard	568	
+test 210620	jbutler	6/20/2021 4:26 PM	Standard	567	
+KD_P1-5-9-13-17-21-25-29-33	kdavidse	6/20/2021 12:20 AM	Standard	563	KD_Nuc-RFP	Basic Analyzer	kdavidse	6/24/2021 8:33 PM	717		
+KD_P4-8-12-16-20-24-28-32	kdavidse	6/19/2021 11:47 PM	Standard	566	KD_Nuc-RFP	Basic Analyzer	kdavidse	6/24/2021 9:53 PM	720		
+KD_P3-7-11-15-19-23-27-31	kdavidse	6/19/2021 11:38 PM	Standard	565	KD_Nuc-RFP	Basic Analyzer	kdavidse	6/24/2021 9:29 PM	719		
+KD_P2-6-10-14-18-22-26-30	kdavidse	6/19/2021 11:29 PM	Standard	564	KD_Nuc-RFP	Basic Analyzer	kdavidse	6/24/2021 9:05 PM	718		
+jmeng2_061621_dayoungs plate 2	jmeng2	6/16/2021 3:45 PM	Standard	555	
+jmeng2_061621_dayoungs plate 1	jmeng2	6/16/2021 2:43 PM	Standard	553	
+061421_Spheroid migration_plate 2	dkim23	6/16/2021 1:30 PM	Standard	551	Spheroid area	Basic Analyzer	dkim23	6/16/2021 1:40 PM	710		
+061421_Spheroid migration_plate 3	dkim23	6/16/2021 1:30 PM	Standard	550	Spheroid area	Basic Analyzer	dkim23	6/16/2021 1:37 PM	708		
+061421_Spheroid migration_plate 1	dkim23	6/16/2021 1:30 PM	Standard	548	Spheroid area	Basic Analyzer	dkim23	6/16/2021 1:38 PM	709		
+061421_sparse_plate 4	dkim23	6/15/2021 3:00 PM	Standard	552	
+gfp_pci_4k_8k	lhuang	6/14/2021 7:33 AM	Adherent Cell-by-Cell	547		A1810_3000_6000_06.14.21	Adherent Cell-by-Cell	lhuang	6/15/2021 1:29 AM	707		
+052821_Spheroid migration	dkim23	5/30/2021 1:00 PM	Standard	546	Spheroid area	Basic Analyzer	dkim23	5/30/2021 1:02 PM	701		
+test pHrodo	dgranadi	5/26/2021 9:14 AM	Standard	545	Low Green Threshold, learning basic analysis	Basic Analyzer	dgranadi	6/4/2021 1:27 PM	705		
+gfp/pCI	lhuang	5/21/2021 1:30 PM	Adherent Cell-by-Cell	544		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	5/25/2021 11:21 AM	690		
+gfp/pCI	lhuang	5/21/2021 1:30 PM	Adherent Cell-by-Cell	544		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	5/22/2021 4:43 AM	689		
+051421_H2B-Dendra2	dkim23	5/17/2021 9:45 AM	Standard	543	
+051421_Spheroid migration_2	dkim23	5/16/2021 10:00 AM	Standard	540	Spheroid area	Basic Analyzer	dkim23	5/16/2021 10:06 AM	679		
+051421_Spheroid migration_1	dkim23	5/16/2021 10:00 AM	Standard	539	Spheroid area	Basic Analyzer	dkim23	5/16/2021 10:05 AM	678		
+051421_H2B-Dendra2	dkim23	5/14/2021 6:15 PM	Standard	542	
+HT29_Cell Cycle_Fn	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	538		HT29 Cell Cycle Spectral Mixing_G1, G1/S, G2	Basic Analyzer	kdlacour	5/20/2021 8:50 PM	687		
+HT29_Cell Cycle_Fn	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	538		Cell-by-Cell HT29 Cells_Version 2 Seed 1 1 1 	Adherent Cell-by-Cell	kdlacour	5/20/2021 6:54 PM	685		
+HT29_Cell Cycle_Fn	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	538		Basic Analyzer HT29_Cell Cycle_More Red 0.5 allow	Basic Analyzer	kdlacour	5/15/2021 8:37 AM	684		
+HT29_Cell Cycle_Fn	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	538		Basic Analyzer HT29_Cell Cycle	Basic Analyzer	kdlacour	5/15/2021 6:54 AM	683		
+HT29_Cell Cycle_Fn	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	538		Cell-by-Cell HT29 Cells	Adherent Cell-by-Cell	kdlacour	5/15/2021 5:13 AM	682		
+RKO_5FU toxicity	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	537	Cell-by-cell Cells	Adherent Cell-by-Cell	kdlacour	5/15/2021 2:27 AM	681		
+RKO_5FU toxicity	kdlacour	5/13/2021 2:00 PM	Adherent Cell-by-Cell	537	RKO Cell 5FU Cells	Basic Analyzer	kdlacour	5/14/2021 4:27 PM	680		
+042921 TGR_BimKD24h+Dox0.1-0.2ug/ml	xwu2	5/3/2021 2:00 PM	Standard	534	nanhyung-cell confluence	Basic Analyzer	xwu2	5/3/2021 2:21 PM	675		
+043021 TGR BimKD48h+Dox0.1-0.2ug/ml	xwu2	5/3/2021 2:00 PM	Standard	535	nanhyung-cell confluence	Basic Analyzer	xwu2	5/3/2021 2:24 PM	676		
+050121 TGR_BimKD72h+Dox0.1-0.2ug/ml	xwu2	5/3/2021 2:00 PM	Standard	536	nanhyung-cell confluence	Basic Analyzer	xwu2	5/3/2021 2:28 PM	677		
+04292021 A549siMYC	haritha	5/3/2021 10:00 AM	Standard	533	HM JC adherent cell confluence	Basic Analyzer	haritha	5/3/2021 10:26 AM	674		
+04292021 KPEsiMyc	haritha	5/3/2021 10:00 AM	Standard	532	HM JC adherent cell confluence	Basic Analyzer	haritha	5/3/2021 10:25 AM	673		
+Test Scan	Admin	4/29/2021 9:00 AM	Standard	529	
+quick test	Admin	4/28/2021 4:26 PM	Standard	530	
+Plate 2	jbutler	4/27/2021 8:48 AM	Non-Adherent Cell-by-Cell	525	Hela NucRed/NucG	Basic Analyzer	mhailema	4/29/2021 6:26 PM	672		
+Plate 3	jbutler	4/27/2021 8:30 AM	Non-Adherent Cell-by-Cell	527	HeLa NucRed Dye	Basic Analyzer	jbutler	4/28/2021 10:08 PM	671		
+Plate 4	jbutler	4/27/2021 7:16 AM	Non-Adherent Cell-by-Cell	524	42721 MH HeLa NucG	Basic Analyzer	jbutler	4/28/2021 4:11 AM	669		
+Plate 1	jbutler	4/27/2021 7:16 AM	Non-Adherent Cell-by-Cell	522	42721 MH HeLa NucG	Basic Analyzer	jbutler	4/27/2021 9:16 PM	668		
+Plate 5	jbutler	4/27/2021 7:16 AM	Non-Adherent Cell-by-Cell	528	42721 MH HeLa NucG	Basic Analyzer	jbutler	4/28/2021 1:15 PM	670		
+Plate 5	jbutler	4/21/2021 4:10 PM	Non-Adherent Cell-by-Cell	526	
+Plate 3	jbutler	4/21/2021 3:16 PM	Non-Adherent Cell-by-Cell	523	
+04172021-MDA-MB-231 mDAAO-Mito inhibitor-D-Ala	szhu23	4/20/2021 4:36 PM	Adherent Cell-by-Cell	521	szhu23-Red	Basic Analyzer	szhu23	4/20/2021 4:58 PM	667		
+04172021-MCF-7 mDAAO-Mito inhibitor-D-Ala	szhu23	4/20/2021 4:00 PM	Adherent Cell-by-Cell	520	szhu23-Red	Basic Analyzer	szhu23	4/20/2021 4:51 PM	666		
+04172021-HCT-116 mDAAO-Mito inhibitor-D-Ala	szhu23	4/20/2021 4:00 PM	Adherent Cell-by-Cell	519	szhu23-Red	Basic Analyzer	szhu23	4/20/2021 4:38 PM	665		
+20210414 YAP1 fusions test	fszulzew	4/14/2021 1:25 PM	Adherent Cell-by-Cell	517	
+20210414 2nd Time lapse YAP1-Fusions	fszulzew	4/14/2021 1:00 PM	Adherent Cell-by-Cell	516	
+HT_single-cell	kdavidse	4/12/2021 6:52 PM	Adherent Cell-by-Cell	513	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	4/12/2021 7:32 PM	662		
+SW_single-cell	kdavidse	4/12/2021 6:11 PM	Adherent Cell-by-Cell	515	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	4/12/2021 6:18 PM	664		
+HCT_single-cell	kdavidse	4/12/2021 5:33 PM	Adherent Cell-by-Cell	514	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	4/12/2021 6:12 PM	663		
+X671 Cytotox	thao	4/9/2021 3:30 PM	Non-Adherent Cell-by-Cell	510	X671 Cytotoxicity Incucyte U266 & MM1R	Basic Analyzer	thao	4/9/2021 3:40 PM	661		
+X671 Cytotox 48hr	thao	4/8/2021 3:30 PM	Non-Adherent Cell-by-Cell	512	X671 Cytotox U266 & MM1R Basic 48hr	Basic Analyzer	thao	4/8/2021 6:48 PM	660		
+X671 Cytotox 24hr	thao	4/7/2021 3:30 PM	Non-Adherent Cell-by-Cell	511	X671 IP U266 & MM1R	Non-Adherent Cell-by-Cell	thao	4/7/2021 5:47 PM	656		
+Frick_4_5_2021	jfrick	4/6/2021 9:22 AM	Non-Adherent Cell-by-Cell	508	AGSRounding	Basic Analyzer	jfrick	4/7/2021 2:25 AM	655		
+Frick_4_5_2021	jfrick	4/6/2021 9:22 AM	Non-Adherent Cell-by-Cell	508	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	4/6/2021 10:52 PM	654		
+Frick_4_5_2021	jfrick	4/6/2021 9:22 AM	Non-Adherent Cell-by-Cell	508	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	4/6/2021 9:36 AM	653		
+03312021-MDA-MB-231 sensitizer wash off-2	szhu23	4/3/2021 5:23 PM	Adherent Cell-by-Cell	507	szhu23-Phase contrast	Basic Analyzer	szhu23	4/3/2021 5:37 PM	651		
+03312021-MDA-MB-231 sensitizer wash off-1	szhu23	4/3/2021 4:30 PM	Adherent Cell-by-Cell	506	szhu23-Phase contrast	Basic Analyzer	szhu23	4/3/2021 5:23 PM	650		
+03312021-MCF-7 sensitizer wash off-3	szhu23	4/3/2021 4:30 PM	Adherent Cell-by-Cell	505	szhu23-Phase contrast	Basic Analyzer	szhu23	4/3/2021 5:18 PM	649		
+03312021-MCF-7 sensitizer wash off-2	szhu23	4/3/2021 4:30 PM	Adherent Cell-by-Cell	504	szhu23-Phase contrast	Basic Analyzer	szhu23	4/3/2021 5:14 PM	648		
+03312021-MCF-7 sensitizer wash off-1	szhu23	4/3/2021 4:30 PM	Adherent Cell-by-Cell	503	szhu23-Phase contrast	Basic Analyzer	szhu23	4/3/2021 5:10 PM	647		
+FrickIncuCyte_3_29_21	jfrick	3/30/2021 9:30 AM	Non-Adherent Cell-by-Cell	502		AGSRounding	Basic Analyzer	jfrick	3/30/2021 6:53 PM	646		
+FrickIncuCyte_3_29_21	jfrick	3/30/2021 9:30 AM	Non-Adherent Cell-by-Cell	502		FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	3/30/2021 4:02 PM	645		
+FrickIncuCyte_3_29_21	jfrick	3/30/2021 9:30 AM	Non-Adherent Cell-by-Cell	502		FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	3/30/2021 9:45 AM	644		
+032621_Spheroid migration_2	dkim23	3/28/2021 1:00 PM	Standard	501	Spheroid area	Basic Analyzer	dkim23	3/28/2021 1:04 PM	643		
+032621_Spheroid migration_1	dkim23	3/28/2021 1:00 PM	Standard	500	Spheroid area	Basic Analyzer	dkim23	3/28/2021 1:03 PM	642		
+032021-MDAMB231 Parental-wash off-Plate 1	szhu23	3/24/2021 9:45 AM	Adherent Cell-by-Cell	499	szhu23-Phase contrast	Basic Analyzer	szhu23	3/24/2021 9:57 AM	641		
+032021-MCF-7 Parental-wash off-Plate 4	szhu23	3/24/2021 9:00 AM	Adherent Cell-by-Cell	498	szhu23-Phase contrast	Basic Analyzer	szhu23	3/24/2021 9:50 AM	640		
+032021-MCF-7 Parental-wash off-Plate 3	szhu23	3/24/2021 9:00 AM	Adherent Cell-by-Cell	497	szhu23-Phase contrast	Basic Analyzer	szhu23	3/24/2021 9:43 AM	639		
+032021-MCF-7 Parental-wash off-Plate 2	szhu23	3/24/2021 9:00 AM	Adherent Cell-by-Cell	496	szhu23-Phase contrast	Basic Analyzer	szhu23	3/24/2021 9:39 AM	638		
+032021-MCF-7 Parental-wash off-Plate 1	szhu23	3/24/2021 9:00 AM	Adherent Cell-by-Cell	495	szhu23-Phase contrast	Basic Analyzer	szhu23	3/24/2021 9:34 AM	637		
+032021-MCF-7 Parental-wash off-Plate 1	szhu23	3/20/2021 6:30 PM	Adherent Cell-by-Cell	490	
+Frick_Sup_3_19_21	jfrick	3/19/2021 3:36 PM	Standard	489	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	3/19/2021 7:30 PM	636		
+Frick_Sup_3_19_21	jfrick	3/19/2021 3:36 PM	Standard	489	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	3/19/2021 6:00 PM	635		
+Frick_Sup_3_19_21	jfrick	3/19/2021 3:36 PM	Standard	489	AGSRounding	Basic Analyzer	jfrick	3/19/2021 3:48 PM	632		
+03152021-MCF-7 Mock vs mCAT-Taxol_CP_H2O2	szhu23	3/18/2021 5:00 PM	Adherent Cell-by-Cell	485	szhu23-Red	Basic Analyzer	szhu23	3/18/2021 5:38 PM	627		
+03152021-HCT-116 Mock vs mCAT-5-FU_H2O2	szhu23	3/18/2021 5:00 PM	Adherent Cell-by-Cell	484	szhu23-Red	Basic Analyzer	szhu23	3/18/2021 5:30 PM	626		
+03152021-MCF7-NTZ_NHI2-Rapa_Ome-Wash off	szhu23	3/18/2021 3:59 PM	Adherent Cell-by-Cell	488	szhu23-Red	Basic Analyzer	szhu23	3/18/2021 4:43 PM	629		
+03152021-MDAMB231-NTZ_NHI-2_Rapa_Ome-Wash off	szhu23	3/18/2021 3:59 PM	Adherent Cell-by-Cell	487	szhu23-Red	Basic Analyzer	szhu23	3/18/2021 4:36 PM	628		
+Cytotoxicy X671	thao	3/18/2021 11:44 AM	Non-Adherent Cell-by-Cell	486	X671 IP vs L363 & H929	Basic Analyzer	thao	3/19/2021 4:32 PM	634		
+gfp pci 03.07.21	lhuang	3/12/2021 9:00 AM	Adherent Cell-by-Cell	483		A1810_03.07.21	Adherent Cell-by-Cell	lhuang	3/12/2021 7:42 PM	624		
+2xGOT-KO-#10_noAsp_cell-death	kdavidse	3/7/2021 8:23 AM	Adherent Cell-by-Cell	481	Cytotox-GFP_2	Basic Analyzer	kdavidse	3/7/2021 9:10 AM	620		
+2xGOT-KO-#10_noAsp_cell-death	kdavidse	3/7/2021 8:23 AM	Adherent Cell-by-Cell	481	Cytotox-GFP	Basic Analyzer	kdavidse	3/7/2021 8:59 AM	618		
+2xGOT-KO-#10_noAsp_cell-death	kdavidse	3/7/2021 8:23 AM	Adherent Cell-by-Cell	481	Cytotox-GFP	Basic Analyzer	kdavidse	3/4/2021 9:17 PM	617		
+pInducer ASNS Nuc RFP Rotenone +dmso +mq	kdavidse	3/7/2021 7:46 AM	Adherent Cell-by-Cell	480	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/7/2021 8:15 AM	612		
+pInducer ASNS Nuc RFP Rotenone +DMSO +asn	kdavidse	3/7/2021 7:12 AM	Adherent Cell-by-Cell	479	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/7/2021 7:42 AM	611		
+pInducer ASNS Nuc RFP Rotenone +dox +mq	kdavidse	3/7/2021 6:41 AM	Adherent Cell-by-Cell	478	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/7/2021 7:11 AM	610		
+pInducer ASNS Nuc RFP Rotenone +dox +asn	kdavidse	3/7/2021 6:09 AM	Adherent Cell-by-Cell	477	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/7/2021 6:38 AM	609		
+2xGOT-KO-#7_noAsp_cell-death	kdavidse	3/7/2021 5:18 AM	Adherent Cell-by-Cell	482	Cytotox-GFP_2	Basic Analyzer	kdavidse	3/7/2021 6:05 AM	619		
+2xGOT-KO-#7_noAsp_cell-death	kdavidse	3/7/2021 5:18 AM	Adherent Cell-by-Cell	482	Cytotox-GFP	Basic Analyzer	kdavidse	3/7/2021 5:54 AM	616		
+2xGOT-KO-#10_metformin-gradient	kdavidse	3/4/2021 1:43 PM	Adherent Cell-by-Cell	476	143B-confluency	Basic Analyzer	kdavidse	3/3/2021 11:15 PM	615		
+2xGOT-KO-#7_metformin-gradient	kdavidse	3/4/2021 1:00 PM	Adherent Cell-by-Cell	475	143B-confluency	Basic Analyzer	kdavidse	3/4/2021 1:20 PM	614		
+2xGOT-KO-#7_metformin-gradient	kdavidse	3/4/2021 1:00 PM	Adherent Cell-by-Cell	475	143B-confluency	Basic Analyzer	kdavidse	3/3/2021 6:29 PM	613		
+pInducer ASNS nuc RFP +DMSO +Asn Metformin	kdavidse	3/3/2021 11:35 AM	Adherent Cell-by-Cell	473	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/3/2021 12:04 PM	607		
+pInducer ASNS nuc RFP +dox +MQ metformin	kdavidse	3/3/2021 11:01 AM	Adherent Cell-by-Cell	472	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/3/2021 11:30 AM	606		
+pInducer ASNS nuc RFP +asn +dox Metformin	kdavidse	3/3/2021 10:30 AM	Adherent Cell-by-Cell	471	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/3/2021 11:00 AM	605		
+pInducer ASNS nuc RFP +DMSO +MQ Metformin	kdavidse	3/3/2021 8:11 AM	Adherent Cell-by-Cell	474	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	3/3/2021 8:39 AM	608		
+20210218 athelen WT1-37 MDA-MB-468 4048	athelen	2/26/2021 9:00 AM	Non-Adherent Cell-by-Cell	466	20210218 athelen 4048 T cell non-adh cell by cell	Non-Adherent Cell-by-Cell	athelen	2/26/2021 10:16 AM	596		
+20210218 athelen WT1-37 MDA-MB-468 4048	athelen	2/26/2021 9:00 AM	Non-Adherent Cell-by-Cell	466	20210218 athelen 4048 Total Red Area MDA-MB-468	Basic Analyzer	athelen	2/26/2021 9:52 AM	594		
+20210218 athelen WT1-37 2710 MDA-MB-468	athelen	2/26/2021 9:00 AM	Non-Adherent Cell-by-Cell	465	20210218 athelen 2710 T cell non-adh cell by cell	Non-Adherent Cell-by-Cell	athelen	2/26/2021 10:04 AM	595		
+20210218 athelen WT1-37 2710 MDA-MB-468	athelen	2/26/2021 9:00 AM	Non-Adherent Cell-by-Cell	465	20210218 athelen 2710 Total Red Area MDA-MB-468_2	Basic Analyzer	athelen	2/26/2021 9:43 AM	593		
+20210222 E17 Donor 4048 K562 48 well	athelen	2/26/2021 8:35 AM	Non-Adherent Cell-by-Cell	470	
+20210222 E16 Donor 2710 K562 48 well	athelen	2/26/2021 8:15 AM	Non-Adherent Cell-by-Cell	469	
+20210218 athelen WT1-37 2710 K562	athelen	2/22/2021 3:47 PM	Non-Adherent Cell-by-Cell	467	
+20210218 athelen WT1-37 4048 K562	athelen	2/22/2021 2:16 PM	Non-Adherent Cell-by-Cell	468	
+20210215_Panc1_Plate 6_21784_TM	tmartino	2/18/2021 10:19 AM	Adherent Cell-by-Cell	464	20210215_Panc1 Cytolight_TM	Basic Analyzer	tmartino	2/19/2021 10:08 AM	588		
+20210215_Panc1_Plate 5_RG1907_TM	tmartino	2/18/2021 10:19 AM	Adherent Cell-by-Cell	463	20210215_Panc1 Cytolight_TM	Basic Analyzer	tmartino	2/19/2021 7:23 AM	587		
+20210215_Panc1_Plate 4_18622_TM	tmartino	2/18/2021 10:19 AM	Adherent Cell-by-Cell	462	20210215_Panc1 Cytolight_TM	Basic Analyzer	tmartino	2/19/2021 4:28 AM	586		
+20210215_CFPAC1_Plate 3_21784_TM	tmartino	2/18/2021 9:28 AM	Adherent Cell-by-Cell	461	20210215_CFPAC NucRed_TM	Basic Analyzer	tmartino	2/19/2021 1:36 AM	585		
+20210215_CFPAC1_Plate 2_RG1907_TM	tmartino	2/18/2021 9:28 AM	Adherent Cell-by-Cell	460	20210215_CFPAC NucRed_TM	Basic Analyzer	tmartino	2/18/2021 10:36 PM	584		
+20210215_CFPAC1_Plate 1_18622_TM	tmartino	2/18/2021 9:28 AM	Adherent Cell-by-Cell	459	20210215_CFPAC NucRed_TM	Basic Analyzer	tmartino	2/18/2021 7:42 PM	583		
+20210215_Panc1_Plate6_TM	tmartino	2/15/2021 4:34 PM	Adherent Cell-by-Cell	458	
+20210215_Panc1_Plate5_TM	tmartino	2/15/2021 4:34 PM	Adherent Cell-by-Cell	457	
+20210215_Panc1_Plate4_TM	tmartino	2/15/2021 4:34 PM	Adherent Cell-by-Cell	456	
+20210215_CFPAC1_Plate3_TM	tmartino	2/15/2021 3:45 PM	Adherent Cell-by-Cell	455	
+20210215_CFPAC1_Plate2_TM	tmartino	2/15/2021 3:45 PM	Adherent Cell-by-Cell	454	
+20210215_CFPAC1_Plate1_TM	tmartino	2/15/2021 3:45 PM	Adherent Cell-by-Cell	453	
+02112021-MDAMB-231-mDAAO_mCAT_CAT-NES-H2O2_Dox	szhu23	2/14/2021 4:07 PM	Adherent Cell-by-Cell	450	szhu23-Red	Basic Analyzer	szhu23	2/14/2021 4:42 PM	577		
+02112021-MCF-7 mDAAO-D-Ala wash off	szhu23	2/14/2021 4:07 PM	Adherent Cell-by-Cell	451	szhu23-Red	Basic Analyzer	szhu23	2/14/2021 4:49 PM	578		
+02112021-MCF7-mDAAO-Mock_mCAT_CAT-NES-H2O2_D-Al	szhu23	2/14/2021 3:30 PM	Adherent Cell-by-Cell	449	szhu23-Red	Basic Analyzer	szhu23	2/14/2021 4:17 PM	576		
+02112021-HCT-116 mDAAO-Mock_mCAT_CAT-NES-H2O2_D-Al	szhu23	2/14/2021 3:30 PM	Adherent Cell-by-Cell	448	szhu23-Red	Basic Analyzer	szhu23	2/14/2021 4:06 PM	575		
+esteenki_021221_BCAR3_WT_F4	esteenki	2/13/2021 4:44 PM	Scratch Wound	452	esteenki_seg4_analysis	Scratch Wound	esteenki	2/17/2021 12:15 PM	582		
+esteenki_021221_BCAR3_WT_F4	esteenki	2/13/2021 4:44 PM	Scratch Wound	452	esteenk_seg5	Scratch Wound	esteenki	2/17/2021 11:48 AM	581		
+esteenki_021221_BCAR3_WT_F4	esteenki	2/13/2021 4:44 PM	Scratch Wound	452	esteenki_030620_seg_filter_Copy_Copy_Copy	Scratch Wound	esteenki	2/16/2021 4:54 PM	580		
+Frick_IncuCyte_2_9_21	jfrick	2/10/2021 9:08 AM	Standard	447	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	2/22/2021 4:51 PM	591		
+Frick_IncuCyte_2_9_21	jfrick	2/10/2021 9:08 AM	Standard	447	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	2/19/2021 4:58 PM	589		
+Frick_IncuCyte_2_9_21	jfrick	2/10/2021 9:08 AM	Standard	447	AGSRounding	Basic Analyzer	jfrick	2/15/2021 12:43 PM	579		
+020521_Spheroid migration	dkim23	2/6/2021 4:40 PM	Standard	446	Spheroid area	Basic Analyzer	dkim23	2/6/2021 6:39 PM	574		
+02012021-MDAMB231 mDAAO-D-Ala+inhibitor	szhu23	2/4/2021 12:33 PM	Adherent Cell-by-Cell	445	szhu23-Red	Basic Analyzer	szhu23	2/4/2021 12:50 PM	573		
+01312021-MCF 7 mDAAO-D-Ala+Aml	szhu23	2/3/2021 2:33 PM	Adherent Cell-by-Cell	444	szhu23-Red	Basic Analyzer	szhu23	2/3/2021 3:21 PM	567		
+01312021-MCF 7 mDAAO-D-Ala+inhibitor	szhu23	2/3/2021 2:33 PM	Adherent Cell-by-Cell	443	szhu23-Red	Basic Analyzer	szhu23	2/3/2021 3:28 PM	568		
+01312021-MCF 7 Mock_mCAT-Taxol	szhu23	2/3/2021 2:00 PM	Adherent Cell-by-Cell	442	szhu23-Phase contrast	Basic Analyzer	szhu23	2/3/2021 2:19 PM	566		
+01312021-MCF 7 Mock_mCAT-Dox	szhu23	2/3/2021 2:00 PM	Adherent Cell-by-Cell	441	szhu23-Phase contrast	Basic Analyzer	szhu23	2/3/2021 2:15 PM	565		
+pInducer ASNS Nuc RFP metformin +Asn +DMSO	kdavidse	1/31/2021 10:45 AM	Adherent Cell-by-Cell	439	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/31/2021 11:14 AM	560		
+pInducer ASNS Nuc RFP metformin +MQ +Dox	kdavidse	1/31/2021 10:00 AM	Adherent Cell-by-Cell	438	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/31/2021 10:29 AM	559		
+pInducer ASNS Nuc RFP metformin +Asn +Dox	kdavidse	1/31/2021 9:15 AM	Adherent Cell-by-Cell	437	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/31/2021 9:44 AM	558		
+pInducer ASNS Nuc RFP metformin +MQ +DMSO	kdavidse	1/31/2021 7:30 AM	Adherent Cell-by-Cell	440	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/31/2021 7:58 AM	561		
+pInducer ASNS Nuc RFP rotenone +Asn +DMSO	kdavidse	1/27/2021 11:55 AM	Adherent Cell-by-Cell	434	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/27/2021 12:25 PM	556		
+pInducer ASNS Nuc RFP rotenone +MQ +dox	kdavidse	1/27/2021 9:08 AM	Adherent Cell-by-Cell	433	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/27/2021 9:38 AM	555		
+pInducer ASNS Nuc RFP rotenone +asn +dox	kdavidse	1/27/2021 8:21 AM	Adherent Cell-by-Cell	432	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/27/2021 8:51 AM	554		
+pInducer ASNS Nuc RFP rotenone +MQ +DMSO	kdavidse	1/27/2021 6:47 AM	Adherent Cell-by-Cell	435	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/27/2021 7:17 AM	557		
+hinge domains msln panc1	aloeb	1/26/2021 4:43 PM	Adherent Cell-by-Cell	436	aloeb 020121 test2_Copy2	Basic Analyzer	aloeb	2/1/2021 12:48 PM	572		
+hinge domains msln panc1	aloeb	1/26/2021 4:43 PM	Adherent Cell-by-Cell	436	aloeb 020121 test2_Copy	Basic Analyzer	aloeb	2/1/2021 11:36 AM	571		
+hinge domains msln panc1	aloeb	1/26/2021 4:43 PM	Adherent Cell-by-Cell	436	aloeb 020121 test2	Basic Analyzer	aloeb	2/1/2021 11:17 AM	570		
+hinge domains msln panc1	aloeb	1/26/2021 4:43 PM	Adherent Cell-by-Cell	436	aloeb 020121 test	Basic Analyzer	aloeb	2/1/2021 10:37 AM	569		
+hinge domains msln panc1	aloeb	1/26/2021 4:43 PM	Adherent Cell-by-Cell	436	aloeb 012821 red test	Basic Analyzer	aloeb	1/28/2021 4:55 PM	562		
+HeLa-Nuc-RFP_w6	kdavidse	1/25/2021 11:00 AM	Standard	431	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/25/2021 11:33 AM	553		
+HeLa-Nuc-RFP_w1	kdavidse	1/25/2021 10:00 AM	Standard	430	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/25/2021 10:34 AM	552		
+gfp_pci_01.18.21	lhuang	1/21/2021 9:00 AM	Adherent Cell-by-Cell	429		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	1/21/2021 7:54 PM	551	every hour B, C, D, F row only	
+gfp_pci_01.18.21	lhuang	1/21/2021 9:00 AM	Adherent Cell-by-Cell	429		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	1/21/2021 2:03 PM	550	analysis every 2 hrs gfp concentration is 2.5x	
+H1299-Nuc-RFP_seed-4000_metformin-gradient	kdavidse	1/18/2021 8:20 AM	Adherent Cell-by-Cell	428	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/18/2021 8:50 AM	542		
+H1299-Nuc-RFP_seed-2000_metformin-gradient	kdavidse	1/18/2021 7:40 AM	Adherent Cell-by-Cell	427	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/18/2021 8:10 AM	541		
+H1299-Nuc-RFP_seed-1000_metformin-gradient	kdavidse	1/18/2021 7:00 AM	Adherent Cell-by-Cell	426	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/18/2021 7:30 AM	540		
+H1299-Nuc-RFP_seed-500_metformin-gradient	kdavidse	1/18/2021 6:20 AM	Adherent Cell-by-Cell	425	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/18/2021 6:49 AM	539		
+H1299-Nuc-RFP_seed-200_metformin-gradient	kdavidse	1/18/2021 5:40 AM	Adherent Cell-by-Cell	424	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/18/2021 6:09 AM	538		
+HeLa-Nuc-RFP_single-cell-clones	kdavidse	1/10/2021 10:07 PM	Standard	423	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/10/2021 10:38 PM	537		
+HeLa-Nuc-RFP_single-cells	kdavidse	1/8/2021 4:50 PM	Standard	422	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/8/2021 5:21 PM	536		
+143B-Nuc-RFP_Asp-uptake-flux_p1	kdavidse	1/5/2021 10:00 AM	Adherent Cell-by-Cell	420	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/5/2021 10:38 AM	535		
+143B-Nuc-RFP_Asp-uptake-flux_count	kdavidse	1/5/2021 9:30 AM	Adherent Cell-by-Cell	421	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	1/5/2021 9:50 AM	534		
+12272020-MCF 7 DAAO cell line-D-Ala treatment	szhu23	12/30/2020 2:00 PM	Adherent Cell-by-Cell	419	szhu23-Phase contrast	Basic Analyzer	szhu23	12/30/2020 2:52 PM	533		
+12272020-MCF 7 DAAO cell line-H2O2 treatment	szhu23	12/30/2020 2:00 PM	Adherent Cell-by-Cell	418	szhu23-Phase contrast	Basic Analyzer	szhu23	12/30/2020 2:47 PM	532		
+12272020-MDAMB231 DAAO cell line-H2O2 treatment	szhu23	12/30/2020 2:00 PM	Adherent Cell-by-Cell	417	szhu23-Phase contrast	Basic Analyzer	szhu23	12/30/2020 2:43 PM	531		
+12272020-MDAMB231 DAAO cell line-D-Ala treatment	szhu23	12/30/2020 2:00 PM	Adherent Cell-by-Cell	416	szhu23-Phase contrast	Basic Analyzer	szhu23	12/30/2020 2:39 PM	530		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		aloeb 012021 test2	Basic Analyzer	aloeb	1/20/2021 4:44 PM	548		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		aloeb 012021 test_Copy	Basic Analyzer	aloeb	1/20/2021 3:54 PM	547		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		aloeb 012021 test	Basic Analyzer	aloeb	1/20/2021 3:29 PM	546		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		test_idenfity target cells	Basic Analyzer	lschroed	1/19/2021 3:05 PM	545		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		aloeb 011421	Adherent Cell-by-Cell	aloeb	1/14/2021 2:12 PM	543		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		test 12.22.20_Copy	Adherent Cell-by-Cell	aloeb	12/22/2020 12:22 PM	528		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		test3 12.22.20	Basic Analyzer	aloeb	12/22/2020 10:12 AM	527		
+121720 msln panc1	aloeb	12/18/2020 10:32 AM	Adherent Cell-by-Cell	415		test 12.22.20	Adherent Cell-by-Cell	aloeb	12/22/2020 10:05 AM	525		
+msln panc1 stained targets 121520	aloeb	12/16/2020 10:22 AM	Adherent Cell-by-Cell	414	
+H1299-Nuc-RFP_metformin-gradient	kdavidse	12/14/2020 10:40 AM	Adherent Cell-by-Cell	412	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 11:09 AM	513		
+HeLa-Nuc-RFP_rotenone-gradient	kdavidse	12/14/2020 10:00 AM	Adherent Cell-by-Cell	411	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 10:29 AM	512		
+HeLa-Nuc-RFP_metformin-gradient	kdavidse	12/14/2020 9:20 AM	Adherent Cell-by-Cell	410	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 9:49 AM	511		
+143B-Nuc-RFP-noArgP10_1mM-Arg_Met-gradient	kdavidse	12/14/2020 8:40 AM	Adherent Cell-by-Cell	409	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 9:09 AM	510		
+143B-Nuc-RFP-noArgP10_Vec_Met-gradient	kdavidse	12/14/2020 8:00 AM	Adherent Cell-by-Cell	408	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 8:30 AM	509		
+H1299-Nuc-RFP_rotenone-gradient	kdavidse	12/14/2020 7:20 AM	Adherent Cell-by-Cell	413	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/14/2020 7:50 AM	514		
+37c	lhuang	12/7/2020 9:00 AM	Adherent Cell-by-Cell	407	
+gfp/pci12.01.20	lhuang	12/7/2020 6:33 AM	Adherent Cell-by-Cell	406		A1810_3000_6000_radius 20	Adherent Cell-by-Cell	lhuang	12/10/2020 7:51 PM	523		
+gfp/pci12.01.20	lhuang	12/7/2020 6:33 AM	Adherent Cell-by-Cell	406		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	12/7/2020 5:33 PM	507	this experiment is at 35C.	
+143B-Nuc-RFP-pInd-ASNS_Dox_1mM-Asn_Met-grad	kdavidse	12/3/2020 1:00 PM	Adherent Cell-by-Cell	403	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/3/2020 1:29 PM	499		
+143B-Nuc-RFP-pInd-ASNS_Vec_1mM-Asn_Met-grad	kdavidse	12/3/2020 12:00 PM	Adherent Cell-by-Cell	402	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/3/2020 12:29 PM	498		
+143B-Nuc-RFP-pInd-ASNS_Dox_Vec_Met-grad	kdavidse	12/3/2020 11:00 AM	Adherent Cell-by-Cell	401	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/3/2020 11:30 AM	497		
+143B-Nuc-RFP-pInd-ASNS_Vec_Vec_Met-grad	kdavidse	12/3/2020 10:00 AM	Adherent Cell-by-Cell	400	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	12/3/2020 10:29 AM	496		
+20201125_CM_CFPACNuc_Red_Plate2	tmartino	11/30/2020 4:26 PM	Adherent Cell-by-Cell	405	20201125 CFPAC_NR TM	Basic Analyzer	tmartino	12/2/2020 7:54 AM	504		
+20201125_CM_CFPACNuc_Red_Plate1	tmartino	11/30/2020 3:33 PM	Adherent Cell-by-Cell	404	20201125 CFPAC_NR TM	Basic Analyzer	tmartino	12/2/2020 2:51 AM	503		
+143B-Nuc-RFP-pInd-ASNS_Dox_Vehicle	kdavidse	11/25/2020 12:50 PM	Adherent Cell-by-Cell	397	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/25/2020 1:22 PM	486		
+143B-Nuc-RFP-pInd-ASNS_noDox_Vehicle	kdavidse	11/25/2020 12:10 PM	Adherent Cell-by-Cell	396	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/25/2020 12:40 PM	485		
+143B-Nuc-RFP-pInd-ASNS_Dox_1mM-Asn	kdavidse	11/25/2020 10:50 AM	Adherent Cell-by-Cell	399	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/25/2020 11:19 AM	488		
+143B-Nuc-RFP-pInd-ASNS_noDox_1mM-Asn	kdavidse	11/25/2020 10:10 AM	Adherent Cell-by-Cell	398	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/25/2020 10:39 AM	487		
+gm-kbro3-pj-incu2	pjoshi	11/25/2020 9:45 AM	Non-Adherent Cell-by-Cell	395		GM-BASIC-ANALYSIS-KBRO3	Basic Analyzer	szhu23	11/25/2020 2:16 PM	494		
+gm-kbro3-pj-incu2	pjoshi	11/25/2020 9:45 AM	Non-Adherent Cell-by-Cell	395		gm_kbro3	Non-Adherent Cell-by-Cell	szhu23	11/25/2020 10:03 AM	489		
+hap1-kbr03-pj-incu2	pjoshi	11/25/2020 9:45 AM	Adherent Cell-by-Cell	394	HAP-BASIC-ANALYSIS-KBRO3	Basic Analyzer	szhu23	11/25/2020 4:57 PM	495		
+hap1-kbr03-pj-incu2	pjoshi	11/25/2020 9:45 AM	Adherent Cell-by-Cell	394	hap1-kbro3	Basic Analyzer	szhu23	11/25/2020 10:07 AM	490		
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	827p27mV KAT5 inhibitors 0-0.5-5.50uM	Adherent Cell-by-Cell	amihalas	12/4/2020 7:47 PM	506	A1-C1 0uM
+A2-C2 0.5uM
+A3-C3 5uM
+A4-C4 50uM
+A6-C6 0uM
+A12-C12 0uM
+	
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	Dox	Basic Analyzer	mling	12/4/2020 12:40 AM	505		
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	Anca cell-by-cell 120120	Adherent Cell-by-Cell	mling	12/1/2020 8:42 PM	501	SAME WELLS AS BASIC	
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	Kat5 Inhibitors	Basic Analyzer	mling	12/1/2020 1:47 PM	500		
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	Anca cell-by-cell test	Adherent Cell-by-Cell	davemcd	11/24/2020 5:00 PM	493		
+827 KAT5 inh/Pol I inh/Dox	amihalas	11/20/2020 1:51 PM	Adherent Cell-by-Cell	391	Anca basic test 	Basic Analyzer	davemcd	11/24/2020 3:02 PM	492		
+Frick_withcell_11_15_2020	jfrick	11/16/2020 7:33 AM	Standard	390	AGSRounding	Basic Analyzer	jfrick	2/26/2021 2:15 PM	603		
+Frick_withcell_11_15_2020	jfrick	11/16/2020 7:33 AM	Standard	390	FrickRoundCellCount	Non-Adherent Cell-by-Cell	jfrick	2/26/2021 11:54 AM	602		
+Frick_withcell_11_15_2020	jfrick	11/16/2020 7:33 AM	Standard	390	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	2/26/2021 3:28 AM	601		
+Frick_cellfree_11_15_2020	jfrick	11/16/2020 1:51 AM	Standard	389	AGSRounding	Basic Analyzer	jfrick	2/25/2021 5:27 PM	600		
+Frick_cellfree_11_15_2020	jfrick	11/16/2020 1:51 AM	Standard	389	FrickAGSTotalCellCount	Non-Adherent Cell-by-Cell	jfrick	2/25/2021 3:04 PM	599		
+Frick_cellfree_11_15_2020	jfrick	11/16/2020 1:51 AM	Standard	389	FrickRoundCellCount_Copy	Non-Adherent Cell-by-Cell	jfrick	2/19/2021 7:58 PM	590		
+MDA-MB-468 11/04/20 MChaffee	mchaffee	11/15/2020 8:24 AM	Non-Adherent Cell-by-Cell	384	111220 MDA-MB-468 NucRed Mchaffee	Basic Analyzer	mchaffee	11/15/2020 8:59 AM	473		
+PANC-1 11/04/20 MChaffee	mchaffee	11/15/2020 8:24 AM	Non-Adherent Cell-by-Cell	383	111220 PANC-1 NucLight MChaffee	Basic Analyzer	mchaffee	11/15/2020 9:06 AM	474		
+PANC-1 11/04/20 MChaffee	mchaffee	11/15/2020 8:24 AM	Non-Adherent Cell-by-Cell	383	111220 PANC-1 NucLight MChaffee	Basic Analyzer	mchaffee	11/13/2020 7:12 AM	472		
+lhuang11.13.20	lhuang	11/15/2020 7:00 AM	Adherent Cell-by-Cell	388		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	11/16/2020 2:53 PM	479		
+11112020-szhu23-HCT 116 mDAAO-5-FU-d42	szhu23	11/14/2020 7:29 PM	Adherent Cell-by-Cell	387	szhu23-Red_Copy	Basic Analyzer	szhu23	11/14/2020 7:40 PM	471		
+pj-incucyte-trial1	szhu23	11/14/2020 11:47 AM	Standard	386	gm-cisplatin	Non-Adherent Cell-by-Cell	szhu23	11/14/2020 11:59 AM	478		
+pj-incucyte-trial1	szhu23	11/14/2020 11:47 AM	Standard	386	hap-cisplatin	Basic Analyzer	szhu23	11/14/2020 11:56 AM	477		
+lhuang11.09.20 co-culture cytotoxin	lhuang	11/13/2020 12:00 PM	Adherent Cell-by-Cell	385		A1810_3000_6000	Adherent Cell-by-Cell	lhuang	11/14/2020 3:42 AM	475		
+468 11/04/20 MChaffee	mchaffee	11/4/2020 7:44 PM	Non-Adherent Cell-by-Cell	380	
+PANC-1 11/04/20 MChaffee	mchaffee	11/4/2020 6:50 PM	Non-Adherent Cell-by-Cell	378	
+PRAME	mmcafee	11/4/2020 3:18 PM	Standard	377	
+143B-Nuc-RFP_0.95-Met_Guanosine-gradient	kdavidse	11/2/2020 10:00 AM	Adherent Cell-by-Cell	375	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 10:29 AM	468		
+143B-Nuc-RFP_0.95-Met_Hypoxanthine-gradient	kdavidse	11/2/2020 9:20 AM	Adherent Cell-by-Cell	374	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 9:49 AM	467		
+143B-Nuc-RFP_0.95-Met_Uridine-gradient	kdavidse	11/2/2020 8:40 AM	Adherent Cell-by-Cell	372	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 9:09 AM	466		
+143B-Nuc-RFP_0.95-Met_Asn_gradient	kdavidse	11/2/2020 8:00 AM	Adherent Cell-by-Cell	371	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 8:30 AM	465		
+ON_143B_Nuc_RFP_Conditions	kdavidse	11/2/2020 7:17 AM	Adherent Cell-by-Cell	373	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 8:05 AM	470		
+143B-Nuc-RFP_0.95-Met_Adenosine-gradient	kdavidse	11/2/2020 6:40 AM	Adherent Cell-by-Cell	376	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	11/2/2020 7:10 AM	469		
+20201019 athelen E13 110046119 WT1-37 KI	athelen	10/27/2020 5:50 PM	Non-Adherent Cell-by-Cell	368	20201021 athelen Total Red Area MDA-MB-468_2	Basic Analyzer	athelen	10/27/2020 6:33 PM	457		
+20201019 athelen E13 110046119 WT1-37 KI	athelen	10/27/2020 5:50 PM	Non-Adherent Cell-by-Cell	368	20201021 athelen T cell non-adherent cell by cell2	Non-Adherent Cell-by-Cell	athelen	10/27/2020 6:19 PM	455		
+20201019 athelen E12 RG2175 WT1-37 KI	athelen	10/27/2020 5:30 PM	Non-Adherent Cell-by-Cell	367	20201021 athelen Total Red Area MDA-MB-468	Basic Analyzer	athelen	10/27/2020 6:25 PM	456		
+20201019 athelen E12 RG2175 WT1-37 KI	athelen	10/27/2020 5:30 PM	Non-Adherent Cell-by-Cell	367	20201021 athelen T cell non-adherent cell by cell	Non-Adherent Cell-by-Cell	athelen	10/27/2020 6:02 PM	454		
+szhu23-MDAMB231-Mock_mDAAO_DAAO-NES-5/10uM	szhu23	10/27/2020 2:15 PM	Adherent Cell-by-Cell	370	szhu23-Red_Copy	Basic Analyzer	szhu23	10/27/2020 2:54 PM	463		
+szhu23-MDAMB231-Mock_mDAAO_DAAO-NES-0/2.5uM	szhu23	10/27/2020 2:15 PM	Adherent Cell-by-Cell	369	szhu23-Red_Copy	Basic Analyzer	szhu23	10/27/2020 3:01 PM	464		
+101420_Spheroid migration_coculture	dkim23	10/16/2020 10:50 AM	Standard	366	
+101120_GFP+mCherry_Spheroid migration	dkim23	10/13/2020 5:15 PM	Standard	363	Spheroid area	Basic Analyzer	dkim23	8/3/2021 6:50 PM	773		
+101120-Spheroid migration	dkim23	10/12/2020 5:23 PM	Standard	365	
+101120_Spheroid migration_24well	dkim23	10/11/2020 5:04 PM	Standard	361	
+jcooper_20201009_incucyte_diff media	jcooper	10/10/2020 6:00 PM	Scratch Wound	360	esteenki_030620_seg_filter_Copy	Scratch Wound	jcooper	10/10/2020 9:44 AM	447		
+Plate 1	jbutler	10/9/2020 9:49 AM	Non-Adherent Cell-by-Cell	354	100920 cablack HeLa NucG	Basic Analyzer	mchaffee	10/9/2020 8:19 PM	446		
+Plate 2	jbutler	10/9/2020 9:33 AM	Non-Adherent Cell-by-Cell	355	100920 cablack HeLa NucG	Basic Analyzer	mchaffee	10/9/2020 3:56 PM	445		
+143B-Nuc-RFP_Vehicle_Metformin-gradient	kdavidse	10/8/2020 6:50 PM	Adherent Cell-by-Cell	356	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/8/2020 7:21 PM	421		
+143B-Nuc-RFP_15uM-Hypo-Adenos_Metformin-gradient	kdavidse	10/8/2020 6:15 PM	Adherent Cell-by-Cell	359	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/8/2020 6:47 PM	424		
+143B-Nuc-RFP_15uM-Adenosine_Metformin-gradient	kdavidse	10/8/2020 4:54 PM	Adherent Cell-by-Cell	358	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/8/2020 5:26 PM	423		
+143B-Nuc-RFP_15uM-Hypoxanthine_Metformin-gradient	kdavidse	10/8/2020 4:17 PM	Adherent Cell-by-Cell	357	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/8/2020 4:48 PM	422		
+Asn_uptake-flux_tend	kdavidse	10/4/2020 1:14 PM	Standard	352	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/4/2020 1:47 PM	419		
+U-13C-Asn_uptake-flux	kdavidse	10/4/2020 12:30 PM	Standard	351	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/4/2020 1:02 PM	418		
+Asn_uptake-flux_t0	kdavidse	10/3/2020 9:52 AM	Standard	353	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/3/2020 10:24 AM	420		
+ABS_Metformin-gradient	kdavidse	10/2/2020 9:20 PM	Adherent Cell-by-Cell	349	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/2/2020 9:50 PM	414		
+Lyophilized-FBS_Metformin-gradient	kdavidse	10/2/2020 8:40 PM	Adherent Cell-by-Cell	348	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/2/2020 9:10 PM	413		
+Standard-FBS_Metformin-gradient	kdavidse	10/2/2020 8:00 PM	Adherent Cell-by-Cell	347	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	10/2/2020 8:32 PM	412		
+143B-Nuc-RFP_5-FU-gradient	kdavidse	10/1/2020 10:00 AM	Adherent Cell-by-Cell	350	
+143N-Nuc-RFP_0.95uM-Metformin_5FU-gradient	kdavidse	9/29/2020 5:20 PM	Adherent Cell-by-Cell	346	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/29/2020 5:51 PM	409		
+143N-Nuc-RFP_Vehicle_5FU-gradient	kdavidse	9/29/2020 4:40 PM	Adherent Cell-by-Cell	345	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/29/2020 5:11 PM	408		
+143N-Nuc-RFP_100%-FBS_Metformin-gradient	kdavidse	9/29/2020 4:00 PM	Adherent Cell-by-Cell	344	143B_Nuc-RFP_100%-FBS_20x	Basic Analyzer	kdavidse	9/29/2020 4:31 PM	411		
+143N-Nuc-RFP_1mM-formate_Metformin-gradient	kdavidse	9/29/2020 3:20 PM	Adherent Cell-by-Cell	343	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/29/2020 3:50 PM	406		
+143N-Nuc-RFP_20uM-hypoxanthine_Metformin-gradient	kdavidse	9/29/2020 2:40 PM	Adherent Cell-by-Cell	342	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/29/2020 3:11 PM	405		
+143B-Nuc-RFP_Vehicle_Metformin-gradient	kdavidse	9/29/2020 2:00 PM	Adherent Cell-by-Cell	341	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/29/2020 2:30 PM	404		
+jcooper_20200925_Incucyte_MCF10Amedia	jcooper	9/26/2020 2:00 PM	Scratch Wound	337	esteenki_030620_seg_filter_Copy_Copy_Copy	Scratch Wound	jcooper	9/26/2020 10:44 AM	403		
+esteenki_092520_R177K_EE_siRNA_noDOX	esteenki	9/26/2020 2:00 PM	Scratch Wound	340	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 1:30 PM	432		
+esteenki_092520_WT_Y117F_siRNA_noDOX	esteenki	9/26/2020 2:00 PM	Scratch Wound	339	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 1:48 PM	433		
+esteenki_092520_MCF10A_EYFP_Cas_siBCAR3	esteenki	9/26/2020 2:00 PM	Scratch Wound	338	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 2:02 PM	434		
+ML1 GFP Test	scastro	9/25/2020 3:18 PM	Non-Adherent Cell-by-Cell	336	ml1 test	Basic Analyzer	scastro	9/26/2020 2:52 AM	402		
+09172020-HCT 116 DAAO-NES-D-Ala+FAD	szhu23	9/20/2020 7:00 PM	Adherent Cell-by-Cell	335	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/20/2020 7:55 PM	388		
+09172020-HCT 116 MLS-DAAO-D-Ala+FAD	szhu23	9/20/2020 7:00 PM	Adherent Cell-by-Cell	334	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/20/2020 7:46 PM	387		
+09172020-HCT 116 parental-D-Ala+FAD	szhu23	9/20/2020 7:00 PM	Adherent Cell-by-Cell	333	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/20/2020 7:32 PM	386		
+kc_9-14-2020 monoculture	kchawla	9/19/2020 2:41 PM	Adherent Cell-by-Cell	332		10_19_2020 mono culturenew analysis 	Adherent Cell-by-Cell	kchawla	10/20/2020 6:24 AM	449		
+kc_9-14-2020 monoculture	kchawla	9/19/2020 2:41 PM	Adherent Cell-by-Cell	332		cluster excl-low area 	Adherent Cell-by-Cell	kchawla	10/9/2020 12:27 AM	436		
+kc_9-14-2020 monoculture	kchawla	9/19/2020 2:41 PM	Adherent Cell-by-Cell	332		DM_Kusum_test_092420_01	Adherent Cell-by-Cell	davemcd	9/25/2020 8:11 PM	396		
+kc_9-14-2020 monoculture	kchawla	9/19/2020 2:41 PM	Adherent Cell-by-Cell	332		mono culture 	Adherent Cell-by-Cell	kchawla	9/24/2020 10:12 PM	392		
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		10_19_2020 mono culturenew analysis 	Adherent Cell-by-Cell	kchawla	10/20/2020 9:33 PM	451	coculture 10-19-2020	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		10_19_2020 mono culturenew analysis 	Adherent Cell-by-Cell	kchawla	10/20/2020 1:58 PM	450	coculture 10_19_2020 new anlysis	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		cluster excl-low area 	Adherent Cell-by-Cell	kchawla	10/9/2020 8:03 AM	437	coculture plate	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		mono culture 	Adherent Cell-by-Cell	kchawla	9/25/2020 9:43 AM	395	this is a co culture plate	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		143B_Nuc-RFP_20x_v2	Basic Analyzer	kchawla	9/25/2020 2:34 AM	394	coculture	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		143B_Nuc-RFP_20x_v2	Basic Analyzer	kchawla	9/25/2020 12:23 AM	393	co culture	
+KC_9-14-2020_coculture A18101	kchawla	9/19/2020 2:29 PM	Adherent Cell-by-Cell	331		cocol 2500 	Adherent Cell-by-Cell	kchawla	9/17/2020 11:20 AM	385		
+esteenki_091120_WT_dox_curve	esteenki	9/12/2020 6:25 PM	Scratch Wound	330	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 8:37 AM	439		
+esteenki_091120_RK_EE_dox_curve	esteenki	9/12/2020 6:25 PM	Scratch Wound	329	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 8:21 AM	438		
+esteenki_091120_10A_Cas_siBCAR3	esteenki	9/12/2020 6:25 PM	Scratch Wound	328	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 2:53 PM	435		
+143B_Nuc-RFP_1mM_Asn_MG132_gradient	kdavidse	9/10/2020 12:00 PM	Adherent Cell-by-Cell	325	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 12:31 PM	382		
+143B_Nuc-RFP_100UL_ASNase_Metformin_gradient	kdavidse	9/10/2020 11:20 AM	Adherent Cell-by-Cell	324	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 11:51 AM	381		
+143B_Nuc-RFP_10UL_ASNase_Metformin_gradient	kdavidse	9/10/2020 10:40 AM	Adherent Cell-by-Cell	323	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 11:10 AM	380		
+143B_Nuc-RFP_1mM_Asn_Metformin_gradient	kdavidse	9/10/2020 10:00 AM	Adherent Cell-by-Cell	322	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 10:31 AM	379		
+143B_Nuc-RFP_100UL_ASNase_MG132_gradient	kdavidse	9/10/2020 9:20 AM	Adherent Cell-by-Cell	327	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 9:52 AM	384		
+143B_Nuc-RFP_10UL_ASNase_MG132_gradient	kdavidse	9/10/2020 8:40 AM	Adherent Cell-by-Cell	326	143B_Nuc-RFP_20x_v2	Basic Analyzer	kdavidse	9/10/2020 9:11 AM	383		
+jcooper_incucyte_20200904_varyinhibs	jcooper	9/5/2020 5:06 PM	Scratch Wound	319	esteenki_030620_seg_filter_xx	Scratch Wound	jcooper	9/5/2020 2:53 PM	378		
+jcooper_incucyte_20200904_varyinhibs	jcooper	9/5/2020 5:06 PM	Scratch Wound	319	esteenki_030620_seg_filter_mod_Copy	Scratch Wound	jcooper	9/5/2020 12:59 PM	377		
+esteenki_090420_siRNA_WT_dox_and_Cas_siBCAR3	esteenki	9/5/2020 4:00 PM	Scratch Wound	321	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 1:06 PM	431		
+esteenki_090420_siRNA_R177K_EE_dox	esteenki	9/5/2020 4:00 PM	Scratch Wound	320	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 12:56 PM	430		
+jcooper_20200902_lapatinib	esteenki	9/4/2020 9:17 AM	Scratch Wound	318	esteenki_030620_seg_filter_mod	Scratch Wound	jcooper	9/3/2020 11:52 AM	376	inc min area to 20 and hole fill to 1000	
+esteenki_090220_WT_dox_curve	esteenki	9/3/2020 4:55 PM	Scratch Wound	317	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 8:53 AM	440		
+esteenki_090220_R177K_EE_dox_curve	esteenki	9/3/2020 4:55 PM	Scratch Wound	316	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 9:11 AM	441		
+08312020-HCT 116 parental	szhu23	9/2/2020 2:43 PM	Adherent Cell-by-Cell	315	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 11:30 PM	375		
+08312020-HCT 116 parental	szhu23	9/2/2020 2:43 PM	Adherent Cell-by-Cell	314	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 3:47 PM	374		
+08312020-MDAMB231 DAAO-NES	szhu23	9/2/2020 2:00 PM	Adherent Cell-by-Cell	312	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 3:07 PM	372		
+08312020-MCF 7 DAAO-NES	szhu23	9/2/2020 2:00 PM	Adherent Cell-by-Cell	311	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 2:55 PM	371		
+08312020-HCT 116 DAAO-NES	szhu23	9/2/2020 2:00 PM	Adherent Cell-by-Cell	310	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 2:39 PM	370		
+08312020-HCT 116 parental	szhu23	9/1/2020 2:43 PM	Adherent Cell-by-Cell	313	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	9/2/2020 5:18 AM	373		
+DMAPT-Ker_0827-2020	vbii	8/30/2020 3:00 PM	Standard	304	vbii_keratin_092419_v1_Copy	Basic Analyzer	vbii	8/30/2020 3:06 PM	368		
+jcooper_Incucyte_20200828_AG1478	jcooper	8/30/2020 7:55 AM	Scratch Wound	309	esteenki_030620_seg_filter_Copy_Copy	Scratch Wound	jcooper	8/30/2020 8:43 AM	369		
+esteenki_082820_siRNA_WT_and_10A_Cas_siBCAR3	esteenki	8/29/2020 5:36 PM	Scratch Wound	308	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 12:32 PM	429		
+esteenki_082820_siRNA_RK_EE_dox	esteenki	8/29/2020 5:36 PM	Scratch Wound	307	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 12:19 PM	428		
+esteenki_082820_WT_dox_curve	esteenki	8/29/2020 5:10 PM	Scratch Wound	306	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 9:27 AM	442		
+esteenki_082820_RK_EE_dox_curve	esteenki	8/29/2020 5:10 PM	Scratch Wound	305	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 9:50 AM	443		
+FrickIncuCyte8.25.2020	jfrick	8/27/2020 10:20 AM	Standard	303	
+08232020-MCF 7 parental-Dox+Mefloquine	szhu23	8/23/2020 3:00 PM	Adherent Cell-by-Cell	300	
+08232020-MCF 7 parental-Dox+Amlodipine	szhu23	8/23/2020 3:00 PM	Adherent Cell-by-Cell	299	
+08232020-MCF 7 parental-Dox+Amlodipine	szhu23	8/23/2020 3:00 PM	Adherent Cell-by-Cell	298	
+Ker_DMAPT_08-20-2020	vbii	8/23/2020 2:15 PM	Standard	297	vbii_keratin_092419_v1_Copy	Basic Analyzer	vbii	8/23/2020 7:32 PM	367		
+Ker_DMAPT_08-20-2020	vbii	8/23/2020 2:15 PM	Standard	297	vbii_keratin_092419_v1	Basic Analyzer	vbii	8/23/2020 4:45 PM	366		
+20200820_Cell Cycle Assay	kdlacour	8/22/2020 9:30 AM	Adherent Cell-by-Cell	295	krdav_growth_RFP_1	Adherent Cell-by-Cell	kdlacour	8/22/2020 9:37 AM	361		
+Single cell clones 8_18_20 (143B SLC1A3)	kdavidse	8/20/2020 8:41 AM	Adherent Cell-by-Cell	294	Confluency_Nuclear-RFP_B2_B3_SLC1A3	Basic Analyzer	kdavidse	8/20/2020 1:50 PM	365		
+Single cell clones 8_18_20 (143B SLC1A3)	kdavidse	8/20/2020 8:41 AM	Adherent Cell-by-Cell	294	Confluency_Nuclear-RFP_2	Basic Analyzer	kdavidse	8/20/2020 1:24 PM	363		
+Single cell clones 8_18_20 (143B)	kdavidse	8/20/2020 7:49 AM	Adherent Cell-by-Cell	293	Confluency_Nuclear-RFP_B3_C3	Basic Analyzer	kdavidse	8/20/2020 1:40 PM	364		
+Single cell clones 8_18_20 (143B)	kdavidse	8/20/2020 7:49 AM	Adherent Cell-by-Cell	293	Confluency_Nuclear-RFP_1	Basic Analyzer	kdavidse	8/20/2020 12:22 PM	362		
+esteenki_081820_R177K_EE_dox_curve	esteenki	8/19/2020 3:18 PM	Scratch Wound	292	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/9/2020 10:08 AM	444		
+esteenki_081820_WT_dox_curve_and_RK_EE_0dox	esteenki	8/19/2020 3:18 PM	Scratch Wound	291	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 12:05 PM	427		
+esteenki_081720_siRNA_BCAR3_R177K_EE_10dox	esteenki	8/18/2020 4:24 PM	Scratch Wound	290	esteenk_seg5	Scratch Wound	esteenki	8/18/2020 4:40 PM	359		
+esteenki_081720_siRNA_WT_10dox_and_10_Cas_siBCAR3	esteenki	8/18/2020 4:24 PM	Scratch Wound	289	esteenk_seg5	Scratch Wound	esteenki	8/18/2020 4:42 PM	360		
+esteenki_081420_siRNA_WT_Y117F_10dox	esteenki	8/15/2020 5:28 PM	Scratch Wound	288	esteenk_seg5	Scratch Wound	esteenki	8/18/2020 8:19 AM	358		
+esteenki_081420_siRNA_WT_Y117F_10dox	esteenki	8/15/2020 5:28 PM	Scratch Wound	288	esteenki_030620_seg_filter	Scratch Wound	esteenki	8/17/2020 2:02 PM	355		
+esteenki_081420_siRNA_EE_10dox_and_10A_Cas_siBCAR3	esteenki	8/15/2020 5:28 PM	Scratch Wound	287	esteenki_030620_seg_filter	Scratch Wound	esteenki	8/17/2020 2:23 PM	357		
+esteenki_081420_siRNA_WT_RK_10dox	esteenki	8/15/2020 5:28 PM	Scratch Wound	286	esteenki_030620_seg_filter	Scratch Wound	esteenki	8/17/2020 2:15 PM	356		
+MC38_CT26WT_CMT93_F.nucleatum	jgaleano	8/13/2020 10:31 AM	Standard	285	
+HT29_F.nucleatum_Live_vs_Dead	jgaleano	8/13/2020 10:26 AM	Standard	284	
+CMT93_F.nucleatum	jgaleano	8/12/2020 12:50 PM	Standard	282	
+esteenki_080920_siRNA_WT_Y117F_20dox	esteenki	8/11/2020 1:07 PM	Scratch Wound	281	esteenki_030620_seg_filter	Scratch Wound	esteenki	8/11/2020 1:22 PM	353		
+esteenki_080920_siRNA_WT_Y117F_0dox	esteenki	8/11/2020 1:07 PM	Scratch Wound	280	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 10:15 AM	425		
+esteenki_080720_siRNA_WT_Y117F_20_dox	esteenki	8/9/2020 10:36 AM	Scratch Wound	279	testD7	Scratch Wound	esteenki	8/10/2020 10:22 AM	354		
+esteenki_080720_siRNA_WT_Y117F_20_dox	esteenki	8/9/2020 10:36 AM	Scratch Wound	279	esteenki_030620_seg_filter	Scratch Wound	esteenki	8/10/2020 9:58 AM	352		
+esteenki_080720_siRNA_WT_Y117F_no_dox	esteenki	8/9/2020 10:36 AM	Scratch Wound	278	esteenki_030620_seg_filter	Scratch Wound	esteenki	10/7/2020 10:38 AM	426		
+test2	kdavidse	8/7/2020 3:00 PM	Adherent Cell-by-Cell	277		krdav_growth_RFP_1	Adherent Cell-by-Cell	kdavidse	8/7/2020 7:43 PM	350		
+test	kdavidse	8/7/2020 3:00 PM	Adherent Cell-by-Cell	276	
+20200730_shCDK8-incucyte-pilot	ebonner	8/3/2020 10:20 AM	Standard	275	shCDK8	Basic Analyzer	ebonner	8/3/2020 4:07 PM	347		
+20200730_shCDK8-incucyte-pilot	ebonner	8/3/2020 10:20 AM	Standard	275	shCDK8	Basic Analyzer	ebonner	8/3/2020 3:54 PM	346		
+20200730_shCDK8-incucyte-pilot	ebonner	8/3/2020 10:20 AM	Standard	275	sRenilla-counts	Basic Analyzer	ebonner	8/3/2020 10:44 AM	344		
+72320_hCMChironExpansionTest_20xPhase	aidan	7/27/2020 3:30 PM	Standard	274	hCM_ExpansionAnalysis_7_27_20	Basic Analyzer	aidan	7/27/2020 4:23 PM	342		
+72320_hCMChironExpansionTest_20xPhase	aidan	7/27/2020 3:30 PM	Standard	274	phasetest	Basic Analyzer	aidan	7/24/2020 4:34 PM	341		
+jcooper_20200722_Incucyte_Rbx2	jcooper	7/23/2020 10:07 AM	Scratch Wound	273	esteenki_030620_seg_filter_Copy	Scratch Wound	jcooper	7/28/2020 1:14 PM	343		
+esteenki_072020_no_siRNA_0_20_30_50_dox	esteenki	7/22/2020 8:38 AM	Scratch Wound	272	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/22/2020 10:32 AM	338		
+esteenki_072020_siRNA_WT_Y117F_20DOX	esteenki	7/22/2020 8:13 AM	Scratch Wound	271	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/22/2020 11:18 AM	339		
+esteenki_072020_siRNA_WT_Y117F_noDOX	esteenki	7/22/2020 8:13 AM	Scratch Wound	270	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/22/2020 11:32 AM	340		
+esteenki_071820_WR_Y117F_no_siRNA_0_5_20_30_dox	esteenki	7/20/2020 11:06 AM	Scratch Wound	269	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/20/2020 11:39 AM	335		
+esteenki_071820_WT_Y117F_siRNA_20DOX	esteenki	7/20/2020 11:06 AM	Scratch Wound	268	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/20/2020 11:53 AM	336		
+esteenki_071820_WT_Y117F_siRNA_noDOX	esteenki	7/20/2020 11:06 AM	Scratch Wound	267	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/20/2020 12:06 PM	337		
+dkim23_spheroid nanofiber test_3	dkim23	7/17/2020 2:54 PM	Standard	265	
+dkim23_spheroid nanofiber test_2	dkim23	7/17/2020 2:25 PM	Standard	259	
+esteenki_071120_WT_Y117F_siRNA_20dox	esteenki	7/15/2020 7:24 PM	Scratch Wound	256	
+esteenki_071120_WT_Y117F_siRNA_0dox	esteenki	7/15/2020 7:24 PM	Scratch Wound	255	
+esteenki_071120_WT_Y117F_siCul5_0_20_dox	esteenki	7/15/2020 7:07 PM	Scratch Wound	254	
+esteenki_072020_WT_Y117F_0_5_10_20_dox	esteenki	7/11/2020 12:44 PM	Scratch Wound	253	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/15/2020 7:47 PM	334		
+jcooper_071020_keratinocytes	esteenki	7/11/2020 12:30 PM	Scratch Wound	252	esteenki_030620_seg_filter	Scratch Wound	jcooper	7/13/2020 11:59 AM	333	all times, omitting bad wells	
+jcooper_071020_keratinocytes	esteenki	7/11/2020 12:30 PM	Scratch Wound	252	esteenki_030620_seg_filter	Scratch Wound	jcooper	7/13/2020 11:17 AM	332		
+esteenki_070420_WT_Y117F_siCul5_0DOX_20DOX	esteenki	7/6/2020 9:07 AM	Scratch Wound	251	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/6/2020 11:47 AM	330		
+esteenki_070420_WT_Y117F_siRNA_20DOX	esteenki	7/6/2020 8:38 AM	Scratch Wound	249	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/6/2020 11:29 AM	329		
+esteenki_070420_WT_Y117F_siRNA_noDOX	esteenki	7/6/2020 8:38 AM	Scratch Wound	248	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/6/2020 11:16 AM	328		
+esteenki_070320_WT_Y117F_0_10_30_50_dox	esteenki	7/4/2020 8:00 PM	Scratch Wound	247	esteenki_030620_seg_filter	Scratch Wound	esteenki	7/6/2020 11:02 AM	327		
+mchaffee 062820 HIVgag-malme	mchaffee	7/1/2020 12:00 PM	Non-Adherent Cell-by-Cell	246	20200630 Mchaffee cell-by-cell	Non-Adherent Cell-by-Cell	mchaffee	7/1/2020 12:16 PM	324		
+mchaffee 062820 HIVgag-malme	mchaffee	7/1/2020 12:00 PM	Non-Adherent Cell-by-Cell	246	20200630 MChaffee	Basic Analyzer	mchaffee	7/1/2020 12:11 PM	323		
+20200624 E6 WT1-37 KI vs Lenti MD-MBA-468	athelen	6/28/2020 11:30 AM	Non-Adherent Cell-by-Cell	245	20200626 athelen T cell non adherent cell by cell	Non-Adherent Cell-by-Cell	athelen	6/28/2020 12:09 PM	322		
+20200624 E6 WT1-37 KI vs Lenti MD-MBA-468	athelen	6/28/2020 11:30 AM	Non-Adherent Cell-by-Cell	245	20200626 athelen Red Area MDA-MB-468	Basic Analyzer	athelen	6/28/2020 11:54 AM	321		
+TGR Dox0.2 0.5_MCD-Ch 30ug/ml	xwu2	6/20/2020 8:00 PM	Standard	240	nanhyung-cell confluence	Basic Analyzer	xwu2	6/20/2020 8:08 PM	315		
+Kasumi-1 Dox1 2 4 pretreated 24h	xwu2	6/19/2020 10:45 PM	Non-Adherent Cell-by-Cell	244		xwu2_Kasumi-1_1	Non-Adherent Cell-by-Cell	xwu2	6/24/2020 2:48 AM	320		
+Kasumi-1 Dox1 2 4 pretreated 24h	xwu2	6/19/2020 10:45 PM	Non-Adherent Cell-by-Cell	244		XW_Kasumi-1_confluence	Non-Adherent Cell-by-Cell	xwu2	6/21/2020 2:24 AM	317		
+Kasumi-1 Dox1 2 4	xwu2	6/19/2020 10:45 PM	Non-Adherent Cell-by-Cell	243		xwu2_Kasumi-1_1	Non-Adherent Cell-by-Cell	xwu2	6/23/2020 11:49 PM	319		
+Kasumi-1 Dox1 2 4	xwu2	6/19/2020 10:45 PM	Non-Adherent Cell-by-Cell	243		XW_Kasumi-1_confluence	Non-Adherent Cell-by-Cell	xwu2	6/20/2020 11:27 PM	316		
+TGR Dox0.2 0.5_MCD-Ch+4-PBA	xwu2	6/19/2020 10:00 PM	Standard	242	nanhyung-cell confluence	Basic Analyzer	xwu2	6/19/2020 10:28 PM	313		
+TGR Dox0.2 0.5_4-PBA 2mM	xwu2	6/19/2020 10:00 PM	Standard	241	nanhyung-cell confluence	Basic Analyzer	xwu2	6/19/2020 10:25 PM	312		
+TGR Dox0.2 0.5_25-HC 0.5ug/ml	xwu2	6/19/2020 10:00 PM	Standard	239	nanhyung-cell confluence	Basic Analyzer	xwu2	6/19/2020 10:31 PM	314		
+CRISP-Cas9-Keratin-Vbii	vbii	6/15/2020 4:39 PM	Standard	238	test	Basic Analyzer	kdavidse	8/7/2020 11:19 AM	349		
+CRISP-Cas9-Keratin-Vbii	vbii	6/15/2020 4:39 PM	Standard	238	NLS-GFP-Keratinocytes_vbii_Analysis_Copy	Basic Analyzer	vbii	8/3/2020 3:48 PM	345		
+PBT05 Migration test	enealy	6/14/2020 11:00 PM	Chemotaxis (Top/Bot)	237	ESN PBT05 migration test	Chemotaxis Migration (Top/Bot)	enealy	6/14/2020 11:22 PM	310		
+PBT05_Murine	enealy	6/10/2020 7:48 PM	Chemotaxis (Top/Bot)	236	ESN PBT05 migration test	Chemotaxis Migration (Top/Bot)	enealy	6/10/2020 10:14 PM	309		
+06092020-MDAMB231 parental-pretreatment-8h-STS-2	szhu23	6/10/2020 4:30 PM	Adherent Cell-by-Cell	235	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	6/10/2020 9:35 PM	305		
+06092020-MDAMB231 parental-pretreatment-8h-STS-1	szhu23	6/10/2020 4:30 PM	Adherent Cell-by-Cell	234	szhu23-Phase Contrast-1	Adherent Cell-by-Cell	szhu23	6/10/2020 5:04 PM	304		
+060820_WT_Y117F_siBCAR3_Cul5_10dox_5dox	esteenki	6/9/2020 3:00 PM	Scratch Wound	233	esteenki_030620_seg_filter	Scratch Wound	esteenki	6/10/2020 9:48 PM	306		
+060820_WT_Y117F_siBCAR3_Cul5_noDOX	esteenki	6/9/2020 3:00 PM	Scratch Wound	232	esteenki_030620_seg_filter	Scratch Wound	esteenki	6/10/2020 10:00 PM	307		
+esteenki_060620_WT_Y117F_noDOX	esteenki	6/8/2020 1:00 PM	Scratch Wound	230	
+esteenki_060620_WT_Y117F_10_and_5_dox	esteenki	6/8/2020 1:00 PM	Scratch Wound	231	
+05272020-MDAMB231 parental-24h-YOYO3 dye	szhu23	5/28/2020 12:00 PM	Adherent Cell-by-Cell	229	szhu23-Red	Basic Analyzer	szhu23	5/28/2020 12:38 PM	302		
+05272020-MDAMB231 parental-24h-Caspase3/7 dye	szhu23	5/28/2020 12:00 PM	Adherent Cell-by-Cell	228	szhu23-Green_Copy	Basic Analyzer	szhu23	5/28/2020 2:03 PM	303		
+20200522 TM Plate 2_CFPAC-NucRed	tmartino	5/26/2020 6:00 PM	Standard	227	20200123 CFPAC1NR_TM	Basic Analyzer	tmartino	5/26/2020 6:35 PM	301		
+20200522 TM Plate 1_CFPAC-NucRed	tmartino	5/26/2020 6:00 PM	Standard	226	20200123 CFPAC1NR_TM	Basic Analyzer	tmartino	5/26/2020 6:30 PM	300		
+PBT-05 v. GSC-0827	enealy	5/13/2020 2:00 PM	Standard	225	EC_PBT05vGBM	Basic Analyzer	enealy	5/13/2020 7:21 PM	299		
+PBT-05 v. GSC-0827	enealy	5/13/2020 2:00 PM	Standard	225	EC_PBT05vGBM	Basic Analyzer	enealy	5/13/2020 4:47 PM	298	5.13.20	
+PBT-05 v. GSC-0827	enealy	5/13/2020 2:00 PM	Standard	225	szhu23-Phase contrast	Basic Analyzer	enealy	5/13/2020 2:15 PM	297		
+04082020-MCF7 parental-Dau_Tega_Dox_Rapa_Lome	szhu23	4/11/2020 9:44 AM	Adherent Cell-by-Cell	224	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:34 AM	296		
+04082020-MCF7 parental-Dau_Tega_Dox_Rapa_Lome	szhu23	4/11/2020 9:44 AM	Adherent Cell-by-Cell	224	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 10:28 AM	294		
+04082020-MCF7 parental-Camptothecin+Sensitizer	szhu23	4/11/2020 9:44 AM	Adherent Cell-by-Cell	223	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:31 AM	295		
+04082020-MCF7 parental-Camptothecin+Sensitizer	szhu23	4/11/2020 9:44 AM	Adherent Cell-by-Cell	223	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 10:20 AM	293		
+04082020-MCF7 parental-Docetaxel+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	222	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:12 AM	292		
+04082020-MCF7 parental-Docetaxel+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	222	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 9:58 AM	288		
+04082020-MCF7 parental-Cisplatin+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	221	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:09 AM	291		
+04082020-MCF7 parental-Cisplatin+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	221	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 9:48 AM	287		
+04082020-MCF7 parental-Etoposide+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	220	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:05 AM	290		
+04082020-MCF7 parental-Etoposide+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	220	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 9:39 AM	286		
+04082020-MCF 7 parental-Paclitaxel+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	219	szhu23-Phase contrast	Basic Analyzer	szhu23	4/11/2020 10:02 AM	289		
+04082020-MCF 7 parental-Paclitaxel+Sensitizer	szhu23	4/11/2020 9:00 AM	Adherent Cell-by-Cell	219	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/11/2020 9:31 AM	285		
+04042020-Paclitaxel+Mefloquine_Ebeselen	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	218	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 10:34 AM	284		
+04042020-Paclitaxel+Mefloquine_Ebeselen	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	218	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 10:24 AM	281		
+04042020-Paclitaxel+Rapamycin_Nony_Terbinafine	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	217	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 10:15 AM	280		
+04042020-Paclitaxel+Rapamycin_Nony_Terbinafine	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	217	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 9:57 AM	274		
+04042020-Paclitaxel+Rifapentine_Raloxifene	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	216	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 10:07 AM	279		
+04042020-Paclitaxel+Rifapentine_Raloxifene	szhu23	4/8/2020 9:30 AM	Adherent Cell-by-Cell	216	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 9:54 AM	273		
+04042020-Paclitaxel+Lofepramine_Cisapride	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	215	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 10:31 AM	283		
+04042020-Paclitaxel+Lofepramine_Cisapride	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	215	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 9:58 AM	278		
+04042020-Paclitaxel+Primaquine_Clofazimine_Dipyrid	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	214	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 9:39 AM	277		
+04042020-Paclitaxel+Primaquine_Clofazimine_Dipyrid	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	214	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 9:21 AM	271		
+04042020-Paclitaxel+Amlodipin_Econazole_RU24969	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	213	szhu23-Phase contrast	Basic Analyzer	szhu23	4/8/2020 10:27 AM	282		
+04042020-Paclitaxel+Amlodipin_Econazole_RU24969	szhu23	4/8/2020 9:00 AM	Adherent Cell-by-Cell	213	szhu23-Adherent cell	Adherent Cell-by-Cell	szhu23	4/8/2020 9:29 AM	276		
+esteenki_5F_4F_EE_RK_siControl	esteenki	3/23/2020 5:48 PM	Scratch Wound	212	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/23/2020 6:17 PM	261		
+esteenki_032120_EE_RK_siBCAR3_siCul5	esteenki	3/23/2020 5:48 PM	Scratch Wound	211	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/23/2020 6:21 PM	263		
+esteenki_032120_5F_4F_siBCAR3_siCul5	esteenki	3/23/2020 5:48 PM	Scratch Wound	210	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/23/2020 6:19 PM	262		
+dkim23_spheroid migration_phase_1d	dkim23	3/18/2020 5:20 PM	Standard	209	
+dkim23_spheroid migration_GFP	dkim23	3/17/2020 4:45 PM	Standard	207	
+dkim23_spheroid migration_phase	dkim23	3/17/2020 4:40 PM	Standard	208	
+dkim23_spheroid migration_phase_test_16	dkim23	3/16/2020 4:10 PM	Standard	205	
+dkim23_spheorid migration_GFP_test_16	dkim23	3/16/2020 4:01 PM	Standard	203	
+dkim23_spheroid migration_GFP_test	dkim23	3/16/2020 3:51 PM	Standard	201	
+esteenki_031420_5F_4F_EE_RK_siControl_noDOX	esteenki	3/16/2020 9:39 AM	Scratch Wound	200	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/17/2020 1:41 PM	255		
+esteenki_031420_EE_RK_siBCAR3_siCul5	esteenki	3/16/2020 9:39 AM	Scratch Wound	199	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/17/2020 2:22 PM	256		
+esteenki_031420_5F_4F_siBCAR3_siCul5	esteenki	3/16/2020 9:39 AM	Scratch Wound	198	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/17/2020 3:03 PM	257		
+MKL2 red 031020	mmcafee	3/14/2020 2:20 PM	Standard	195	
+MS1 red 031020	mmcafee	3/14/2020 2:20 PM	Standard	194	
+WAGA red 031020	mmcafee	3/14/2020 2:20 PM	Standard	193	
+20200310 muFas FasL Block Plate 2	cjenkin2	3/14/2020 2:20 PM	Non-Adherent Cell-by-Cell	197		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/14/2020 3:12 PM	244		
+20200310 muFas FasL Block Plate 2	cjenkin2	3/14/2020 2:20 PM	Non-Adherent Cell-by-Cell	197		20200311 TCRgag NR FBL Oda	Basic Analyzer	skoda	3/14/2020 3:07 PM	243		
+20200310 muFas FasL Block Plate 1	cjenkin2	3/14/2020 2:20 PM	Non-Adherent Cell-by-Cell	196		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/11/2020 7:45 PM	242		
+20200310 muFas FasL Block Plate 1	cjenkin2	3/14/2020 2:20 PM	Non-Adherent Cell-by-Cell	196		20200311 TCRgag NR FBL Oda	Basic Analyzer	skoda	3/14/2020 3:06 PM	241		
+esteenki_030620_EE_R177K_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	192	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/13/2020 5:33 PM	252		
+esteenki_030620_EE_R177K_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	192	esteenki_030620_EE_RK	Scratch Wound	esteenki	3/12/2020 12:46 PM	245		
+esteenki_030620_EE_R177K_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	192	esteenki_030220_scratch_wound	Scratch Wound	esteenki	3/9/2020 5:32 PM	228		
+esteenki_030620_5F_4F_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	191	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/13/2020 2:12 PM	251		
+esteenki_030620_5F_4F_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	191	esteenki_030620_seg3	Scratch Wound	esteenki	3/12/2020 5:45 PM	250		
+esteenki_030620_5F_4F_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	191	esteenki_030620_seg4	Scratch Wound	esteenki	3/12/2020 4:33 PM	249		
+esteenki_030620_5F_4F_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	191	esteenki_0300620_5F_4F	Scratch Wound	esteenki	3/12/2020 1:55 PM	246		
+esteenki_030620_5F_4F_siBCAR3_siCul5	esteenki	3/9/2020 2:00 PM	Scratch Wound	191	esteenki_030220_scratch_wound	Scratch Wound	esteenki	3/9/2020 4:46 PM	227		
+esteenki_030220_5F_4F_siBCAR3_siCul5_80DOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	190	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/13/2020 6:23 PM	253		
+esteenki_030220_5F_4F_siBCAR3_siCul5_80DOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	190	esteenki_030220_4F_5F	Scratch Wound	esteenki	3/12/2020 2:31 PM	247		
+esteenki_030220_5F_4F_siBCAR3_siCul5_80DOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	190	esteenki_030220_scratch_wound	Scratch Wound	esteenki	3/4/2020 5:46 PM	225		
+esteenki_030220_GFP_WT_siRNA_noDOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	189	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/13/2020 6:57 PM	254		
+esteenki_030220_GFP_WT_siRNA_noDOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	189	esteenki_030220_GFP_WT_siRNA	Scratch Wound	esteenki	3/12/2020 3:23 PM	248		
+esteenki_030220_GFP_WT_siRNA_noDOX	esteenki	3/4/2020 4:31 PM	Scratch Wound	189	esteenki_030220_scratch_wound	Scratch Wound	esteenki	3/4/2020 6:17 PM	226		
+PBTvGBM	enealy	2/28/2020 12:00 PM	Standard	187	EC_TestPBT05vGBM	Basic Analyzer	enealy	2/28/2020 4:22 PM	223		
+PBTvGBM	enealy	2/28/2020 12:00 PM	Standard	187	ESN:PBT-05Nuc	Basic Analyzer	enealy	2/28/2020 12:17 PM	221		
+PBTvGBM2	enealy	2/28/2020 12:00 PM	Standard	188	EC_TestPBT05vGBM_Copy	Basic Analyzer	enealy	2/28/2020 5:41 PM	224		
+PBTvGBM2	enealy	2/28/2020 12:00 PM	Standard	188	ESN:PBT-05Nuc	Basic Analyzer	enealy	2/28/2020 12:18 PM	222		
+plate 3 MCC 021720	mmcafee	2/21/2020 3:00 PM	Standard	186	
+plate 2 MCC 021720	mmcafee	2/21/2020 3:00 PM	Standard	185	
+plate 1 MCC 021720	mmcafee	2/21/2020 3:00 PM	Standard	184	
+lbrumage_HGO_line_25	lkjackso	2/13/2020 11:05 AM	Standard	183	lbrumage_organoid25_v2	Basic Analyzer	lkjackso	2/24/2020 4:45 PM	220		
+lbrumage_HGO_line_25	lkjackso	2/13/2020 11:05 AM	Standard	183	lbrumage_organoid25_v1	Basic Analyzer	lkjackso	2/21/2020 3:49 PM	219		
+lbrumage_Organoid_19_and_AGS_Cells_Hp_infection	lkjackso	2/13/2020 11:05 AM	Standard	182	lbrumage_organoid19_v1	Basic Analyzer	lkjackso	2/21/2020 2:18 PM	217		
+esteenki_021020_GFP_WT_siRNA_80DOX	esteenki	2/12/2020 11:00 AM	Scratch Wound	180	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 6:53 PM	269		
+esteenki_021020_GFP_WT_siRNA_80DOX	esteenki	2/12/2020 11:00 AM	Scratch Wound	180	esteenki_012720_GFP_WT_siRNA_noDOX_analysis	Scratch Wound	esteenki	2/12/2020 11:21 AM	214		
+esteenki_021020_GFP_WT_siRNA_noDOX	esteenki	2/12/2020 11:00 AM	Scratch Wound	179	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 6:21 PM	268		
+esteenki_021020_GFP_WT_siRNA_noDOX	esteenki	2/12/2020 11:00 AM	Scratch Wound	179	esteenki_012720_GFP_WT_siRNA_noDOX_analysis	Scratch Wound	esteenki	2/12/2020 11:19 AM	213		
+esteenki_021020_WT_DOX_curve	esteenki	2/12/2020 10:00 AM	Scratch Wound	181	esteenki_012720_GFP_WT_siRNA_noDOX_analysis	Scratch Wound	esteenki	2/12/2020 10:11 AM	215		
+012920 s02 and k9 killing	rgblack	2/3/2020 2:30 PM	Standard	167	
+esteenki_012720_scratch_wound_GFP_WT_siRNA_noDOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	166	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 5:24 PM	266		
+esteenki_012720_scratch_wound_GFP_WT_siRNA_noDOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	166	esteenki_012720_GFP_WT_siRNA_noDOX_analysis	Scratch Wound	esteenki	1/30/2020 3:24 PM	211		
+esteenki_012720_scratch_wound_GFP_WT_siRNA_noDOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	166	120919_BCAR3i_scratch_wound_analysis_plate2	Scratch Wound	esteenki	1/29/2020 10:21 AM	209		
+esteenki_012720_scratch_wound_GFP_WT_siCul5_DOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	165	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 5:50 PM	267		
+esteenki_012720_scratch_wound_GFP_WT_siCul5_DOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	165	esteenki_012720_GFP_WT_siCul5_DOX_analysis	Scratch Wound	esteenki	1/30/2020 2:57 PM	210		
+esteenki_012720_scratch_wound_GFP_WT_siCul5_DOX	esteenki	1/29/2020 10:00 AM	Scratch Wound	165	120919_BCAR3i_scratch_wound_analysis_plate2	Scratch Wound	esteenki	1/29/2020 10:19 AM	208		
+20200122_A2-KRAS_CFPAC1-NucRed_TM_plate 4	tmartino	1/27/2020 3:44 PM	Standard	164	20200123 CFPAC1NR_TM_plate4	Basic Analyzer	tmartino	1/27/2020 4:03 PM	207		
+20200122_A2-KRAS_CFPAC1-NucRed_TM_plate 3	tmartino	1/27/2020 3:00 PM	Standard	163	20200123 CFPAC1NR_TM_plate3	Basic Analyzer	tmartino	1/27/2020 3:57 PM	206		
+20200122_A2-KRAS_CFPAC1-NucRed_TM_plate 2	tmartino	1/27/2020 3:00 PM	Standard	162	20200123 CFPAC1NR_TM_Copy	Basic Analyzer	tmartino	1/27/2020 3:48 PM	205		
+20200122_A2-KRAS_CFPAC1-NucRed_TM_plate 1	tmartino	1/27/2020 3:00 PM	Standard	161	20200123 CFPAC1NR_TM	Basic Analyzer	tmartino	1/27/2020 3:41 PM	204		
+20200115 Apoptosis L363NR plate 5_TM	tmartino	1/22/2020 11:58 AM	Standard	160	20200116 TM L363 analysis_NR_Copy	Basic Analyzer	tmartino	1/22/2020 6:19 PM	203		
+20200115 22087 22214 L363NR plate 4_TM	tmartino	1/22/2020 11:42 AM	Standard	159	20200116 TM L363 analysis_NR	Basic Analyzer	tmartino	1/22/2020 11:56 AM	200		
+20200115 22087 22214 L363 parental plate 3_TM	tmartino	1/22/2020 11:00 AM	Standard	158	20200116 TM L363 analysis	Basic Analyzer	tmartino	1/22/2020 11:38 AM	197		
+20200115 Apoptosis OVCAR3 and L363 plate 2_TM	tmartino	1/22/2020 11:00 AM	Standard	157	20200116 OVCAR3 apoptosis	Basic Analyzer	tmartino	1/22/2020 11:42 AM	201		
+20200115 Apoptosis OVCAR3 and L363 plate 2_TM	tmartino	1/22/2020 11:00 AM	Standard	157	20200116 OVCAR3 apoptosis	Basic Analyzer	tmartino	1/16/2020 9:57 PM	198		
+20200115 22087 22214 OVCAR3 plate 1_TM	tmartino	1/22/2020 11:00 AM	Standard	156	20200116 OVCAR3 T cells	Basic Analyzer	tmartino	1/22/2020 11:40 AM	199		
+LOCKR - D2 Plate2	tshabaneh	1/15/2020 11:00 AM	Standard	155	AR ANALYSIS 2	Basic Analyzer	tshabaneh	1/16/2020 9:22 PM	196		
+LOCKR - D1 Plate1	tshabaneh	1/15/2020 11:00 AM	Standard	153	AR ANALYSIS 1	Basic Analyzer	tshabaneh	1/16/2020 6:20 PM	195		
+Plate 3	mchaffee	1/7/2020 11:21 AM	Non-Adherent Cell-by-Cell	152	010720 JBUTLER Cell-by-Cell B	Non-Adherent Cell-by-Cell	mchaffee	1/10/2020 12:33 AM	194		
+Plate 3	mchaffee	1/7/2020 11:21 AM	Non-Adherent Cell-by-Cell	152	P16 Analysis	Basic Analyzer	jbutler	1/8/2020 6:23 PM	190		
+Plate 2	mchaffee	1/7/2020 11:21 AM	Non-Adherent Cell-by-Cell	151	010720 JBUTLER Cell-by-Cell B	Non-Adherent Cell-by-Cell	mchaffee	1/9/2020 4:44 PM	193		
+Plate 2	mchaffee	1/7/2020 11:21 AM	Non-Adherent Cell-by-Cell	151	P16 Analysis	Basic Analyzer	jbutler	1/8/2020 1:34 PM	189		
+123019 Plate 3 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	149	010620 Cell-by-Cell K562 and 293T	Non-Adherent Cell-by-Cell	mchaffee	1/8/2020 5:01 AM	187		
+123019 Plate 3 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	149	010620 CB MC K562	Basic Analyzer	mchaffee	1/7/2020 10:10 PM	186		
+123019 Plate 3 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	149	010620 CB MC 293T	Basic Analyzer	mchaffee	1/7/2020 8:33 PM	185		
+123019 Plate 2 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	148	010620 Cell-by-Cell K562 and 293T	Non-Adherent Cell-by-Cell	mchaffee	1/7/2020 7:02 PM	184		
+123019 Plate 2 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	148	010620 CB MC K562	Basic Analyzer	mchaffee	1/7/2020 12:24 PM	183		
+123019 Plate 2 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	148	010620 CB MC 293T	Basic Analyzer	mchaffee	1/7/2020 11:10 AM	182		
+123019 Plate 1 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	147	010620 Cell-by-Cell K562 and 293T	Non-Adherent Cell-by-Cell	mchaffee	1/7/2020 11:08 AM	181		
+123019 Plate 1 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	147	010620 CB MC K562	Basic Analyzer	mchaffee	1/7/2020 11:03 AM	180		
+123019 Plate 1 MC	amacy	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	147	010620 CB MC 293T	Basic Analyzer	mchaffee	1/7/2020 11:00 AM	179		
+Plate 1	mchaffee	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	150	010720 JBUTLER Cell-by-Cell B	Non-Adherent Cell-by-Cell	mchaffee	1/9/2020 8:48 AM	192		
+Plate 1	mchaffee	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	150	010720 JBUTLER Cell-by-Cell	Non-Adherent Cell-by-Cell	mchaffee	1/9/2020 1:16 AM	191		
+Plate 1	mchaffee	1/7/2020 10:18 AM	Non-Adherent Cell-by-Cell	150	P16 Analysis	Basic Analyzer	jbutler	1/8/2020 9:19 AM	188		
+12.27.19 plate 4 A549 migration	haritha	12/30/2019 10:00 AM	Scratch Wound	146	HM scratch wound migration	Scratch Wound	haritha	12/30/2019 10:27 AM	141		
+12.27.19 HM plate 3 A549 Myci MS008	haritha	12/30/2019 10:00 AM	Standard	145	HM JC adherent cell confluence	Basic Analyzer	haritha	12/30/2019 10:26 AM	140		
+12.27.19 HM plate 2 KP MS008	haritha	12/30/2019 10:00 AM	Standard	144	HM JC adherent cell confluence	Basic Analyzer	haritha	12/30/2019 10:32 AM	143		
+12.27.19 HM KP cell line Myci 1	haritha	12/30/2019 10:00 AM	Standard	143	HM JC adherent cell confluence	Basic Analyzer	haritha	12/30/2019 10:30 AM	142		
+122319-szhu23-Plate 2-MCF 7-Mefl_Rifapen_Cispari	szhu23	12/27/2019 11:00 AM	Adherent Cell-by-Cell	141	szhu23-Green	Basic Analyzer	szhu23	12/27/2019 11:13 PM	139		
+122319-szhu23-Plate 1-MCF 7-Etop_Cisp_Taxol_Dox	szhu23	12/27/2019 11:00 AM	Adherent Cell-by-Cell	140	szhu23-Green	Basic Analyzer	szhu23	12/27/2019 3:40 PM	137		
+122319-szhu23-Plate 3-MDAMB231-Etop_Cisplatin_Taxo	szhu23	12/27/2019 9:39 AM	Adherent Cell-by-Cell	142	szhu23-Red	Basic Analyzer	szhu23	12/27/2019 6:54 PM	138		
+adeno_12-19-19	dbuenros	12/22/2019 10:44 AM	Adherent Cell-by-Cell	136	adeno_1-22-20	Basic Analyzer	dbuenros	1/22/2020 4:08 PM	202		
+20191217 muFas Serial-trFas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	139		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/10/2020 3:29 AM	233		
+20191217 muFas Serial-trFas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	139		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 9:25 AM	169		
+20191217 muFas Serial-trFas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	139		20191212 Analysis	Basic Analyzer	skoda	1/3/2020 9:01 AM	168		
+20191217 muFas Serial-Fas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	138		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/10/2020 1:18 AM	232		
+20191217 muFas Serial-Fas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	138		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 11:07 AM	171		
+20191217 muFas Serial-Fas II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	138		20191212 Analysis	Basic Analyzer	skoda	1/3/2020 10:26 AM	170		
+20191217 muFas Serial-GFP II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	137		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/9/2020 11:06 PM	231		
+20191217 muFas Serial-GFP II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	137		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 12:47 PM	173		
+20191217 muFas Serial-GFP II	dbuenros	12/22/2019 8:44 AM	Non-Adherent Cell-by-Cell	137		20191212 Analysis	Basic Analyzer	skoda	1/3/2020 12:08 PM	172		
+20191217 muFas Serial-GFP	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	135		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/9/2020 8:52 PM	230		
+20191217 muFas Serial-GFP	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	135		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 2:01 PM	175		
+20191217 muFas Serial-GFP	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	135		20191212 Analysis	Basic Analyzer	skoda	1/3/2020 1:30 PM	174		
+20191217 muFas Serial-FasBB	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	134		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/9/2020 7:11 PM	229		
+20191217 muFas Serial-FasBB	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	134		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 5:14 PM	146		
+20191217 muFas Serial-FasBB	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	134		20191212 Analysis	Basic Analyzer	skoda	1/2/2020 4:58 PM	145		
+20191217 muFas Serial-trFas	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	132		20200309 TCRgag cell by cell Oda	Non-Adherent Cell-by-Cell	skoda	3/10/2020 5:12 AM	234		
+20191217 muFas Serial-trFas	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	132		20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 6:07 PM	148		
+20191217 muFas Serial-trFas	cjenkin2	12/19/2019 10:15 AM	Non-Adherent Cell-by-Cell	132		20191212 Analysis	Basic Analyzer	skoda	1/2/2020 5:50 PM	147		
+20191213 huFas Panc1 10-1	cjenkin2	12/17/2019 8:45 PM	Adherent Cell-by-Cell	128	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 8:43 PM	150		
+20191213 huFas Panc1 10-1	cjenkin2	12/17/2019 8:45 PM	Adherent Cell-by-Cell	128	20191212 Analysis	Basic Analyzer	skoda	1/2/2020 7:47 PM	149		
+20191213 huFas Panc1 30-1	cjenkin2	12/17/2019 8:45 PM	Adherent Cell-by-Cell	127	CBC Panc1 huFas-30-1 ET 12/14/19	Non-Adherent Cell-by-Cell	cjenkin2	1/31/2020 3:15 PM	212		
+20191213 huFas Panc1 30-1	cjenkin2	12/17/2019 8:45 PM	Adherent Cell-by-Cell	127	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 4:12 PM	144		
+20191217 muFas Serial-trFas	cjenkin2	12/17/2019 4:15 PM	Non-Adherent Cell-by-Cell	131	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 8:47 PM	152		
+20191217 muFas Serial-trFas	cjenkin2	12/17/2019 4:15 PM	Non-Adherent Cell-by-Cell	131	20191212 Analysis	Basic Analyzer	skoda	1/2/2020 8:46 PM	151		
+20191217 muFas Serial-FasBB	cjenkin2	12/17/2019 4:15 PM	Non-Adherent Cell-by-Cell	130	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 3:17 PM	176		
+20191217 muFas Serial-GFP	cjenkin2	12/17/2019 4:15 PM	Non-Adherent Cell-by-Cell	129	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 3:19 PM	177		
+20191212 muFasBB FasL-Block 2	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	126	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/2/2020 11:14 PM	154		
+20191212 muFasBB FasL-Block 2	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	126	20191212 Analysis	Basic Analyzer	skoda	1/2/2020 10:14 PM	153		
+20191212 muFasBB FasL-Block 1	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	125	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 1:52 AM	156		
+20191212 muFasBB FasL-Block 1	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	125	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 12:58 AM	155		
+20191212 muFasBB Unblocked 2	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	124	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 4:37 PM	178		
+20191212 muFasBB Unblocked 2	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	124	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 3:23 AM	157		
+20191212 muFasBB Unblocked 1	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	123	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 6:01 AM	159		
+20191212 muFasBB Unblocked 1	cjenkin2	12/17/2019 1:15 PM	Non-Adherent Cell-by-Cell	123	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 5:07 AM	158		
+20191211 muFasBB FasL-Block Plate2	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	122	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 6:25 AM	161		
+20191211 muFasBB FasL-Block Plate2	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	122	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 6:14 AM	160		
+20191211 muFasBB FasL-Block Plate1	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	121	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 7:01 AM	163		
+20191211 muFasBB FasL-Block Plate1	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	121	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 6:51 AM	162		
+20191211 muFasBB Unblocked Plate2	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	120	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 7:21 AM	165		
+20191211 muFasBB Unblocked Plate2	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	120	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 7:14 AM	164		
+20191211 muFasBB Unblocked Plate1	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	117	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	1/3/2020 7:57 AM	167		
+20191211 muFasBB Unblocked Plate1	cjenkin2	12/12/2019 4:14 PM	Non-Adherent Cell-by-Cell	117	20191212 Analysis	Basic Analyzer	skoda	1/3/2020 7:48 AM	166		
+esteenki_120919_BCAR3i_scratch_wound_plate2	jcooper	12/10/2019 4:00 PM	Scratch Wound	116	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 4:58 PM	265		
+esteenki_120919_BCAR3i_scratch_wound_plate2	jcooper	12/10/2019 4:00 PM	Scratch Wound	116	120919_BCAR3i_scratch_wound_analysis_plate2	Scratch Wound	esteenki	12/11/2019 5:19 AM	134		
+esteenki_120919_BCAR3i_scratch_wound_plate1	jcooper	12/10/2019 4:00 PM	Scratch Wound	115	esteenki_030620_seg_filter	Scratch Wound	esteenki	3/31/2020 4:05 PM	264		
+esteenki_120919_BCAR3i_scratch_wound_plate1	jcooper	12/10/2019 4:00 PM	Scratch Wound	115	120919_BCAR3i_scratch_wound_analysis_plate1	Scratch Wound	esteenki	12/11/2019 4:36 AM	133		
+20191204 muFas-41BB FasL Block	cjenkin2	12/9/2019 3:13 PM	Non-Adherent Cell-by-Cell	110	20191210 SOda FBL rapid red	Basic Analyzer	skoda	12/11/2019 3:49 AM	132		
+20191204 muFas-41BB	cjenkin2	12/9/2019 3:13 PM	Non-Adherent Cell-by-Cell	109	20191212 Analysis	Basic Analyzer	cjenkin2	12/12/2019 4:05 PM	135		
+20191204 muFas-41BB	cjenkin2	12/9/2019 3:13 PM	Non-Adherent Cell-by-Cell	109	20191210 SOda FBL rapid red	Basic Analyzer	skoda	12/10/2019 10:51 PM	131		
+20191204 muFas-41BB CD80/86 Block	cjenkin2	12/9/2019 3:13 PM	Non-Adherent Cell-by-Cell	113	20191210 SOda FBL rapid red	Basic Analyzer	skoda	12/10/2019 6:00 PM	130		
+20191205 athelen E4 WT1-37 aKI bKO	athelen	12/9/2019 2:55 PM	Non-Adherent Cell-by-Cell	114	20191209 athelen nonadherent phase t cells	Non-Adherent Cell-by-Cell	athelen	12/10/2019 6:58 AM	129		
+20191205 athelen E4 WT1-37 aKI bKO	athelen	12/9/2019 2:55 PM	Non-Adherent Cell-by-Cell	114	20191209 athelen red object	Basic Analyzer	athelen	12/9/2019 10:11 PM	128		
+20191204 muFas-41BB Fasl Blck	cjenkin2	12/4/2019 6:53 PM	Non-Adherent Cell-by-Cell	111	
+Plate 6 MEC	amacy	12/2/2019 11:49 AM	Non-Adherent Cell-by-Cell	108	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/8/2019 5:46 AM	127		
+Plate 6 MEC	amacy	12/2/2019 11:49 AM	Non-Adherent Cell-by-Cell	108	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/7/2019 5:00 AM	121		
+Plate 6 MEC	amacy	12/2/2019 11:49 AM	Non-Adherent Cell-by-Cell	108	120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/5/2019 4:00 AM	108		
+Plate 6 MEC	amacy	12/2/2019 11:49 AM	Non-Adherent Cell-by-Cell	108	120319 MC Red Objective	Basic Analyzer	amacy	12/4/2019 1:29 AM	102		
+Plate 5 MEC	amacy	12/2/2019 11:29 AM	Non-Adherent Cell-by-Cell	107	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/8/2019 12:05 AM	126		
+Plate 5 MEC	amacy	12/2/2019 11:29 AM	Non-Adherent Cell-by-Cell	107	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/6/2019 11:37 PM	120		
+Plate 5 MEC	amacy	12/2/2019 11:29 AM	Non-Adherent Cell-by-Cell	107	120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/4/2019 11:00 PM	107		
+Plate 5 MEC	amacy	12/2/2019 11:29 AM	Non-Adherent Cell-by-Cell	107	120319 MC Red Objective	Basic Analyzer	amacy	12/3/2019 11:05 PM	101		
+Plate 4 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	106	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/7/2019 6:31 PM	125		
+Plate 4 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	106	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/6/2019 5:59 PM	119		
+Plate 4 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	106	120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/4/2019 6:04 PM	106		
+Plate 4 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	106	120319 MC Red Objective	Basic Analyzer	amacy	12/3/2019 8:47 PM	100		
+Plate 3 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	105	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/7/2019 12:47 PM	124		
+Plate 3 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	105	20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/6/2019 12:11 PM	118		
+Plate 3 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	105	120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/4/2019 1:51 PM	105		
+Plate 3 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	105	120319 MC Red Objective	Basic Analyzer	amacy	12/3/2019 6:26 PM	99		
+Plate 2 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	104		20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/5/2019 9:44 PM	111		
+Plate 2 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	104		Cell-By-Cell 120519 MC	Non-Adherent Cell-by-Cell	amacy	12/5/2019 11:02 AM	109		
+Plate 2 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	104		120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/4/2019 9:39 AM	104		
+Plate 2 MEC	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	104		120319 MC Red Objective	Basic Analyzer	amacy	12/3/2019 4:00 PM	98		
+Plate 1	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	103		20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	amacy	12/5/2019 4:12 PM	110		
+Plate 1	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	103		120319 Cell by Cell MC	Non-Adherent Cell-by-Cell	amacy	12/4/2019 5:39 AM	103		
+Plate 1	amacy	12/2/2019 10:41 AM	Non-Adherent Cell-by-Cell	103		120319 MC Red Objective	Basic Analyzer	amacy	12/3/2019 1:54 PM	97		
+AR Plate 2 (4+12)	tshabaneh	11/27/2019 12:41 PM	Standard	98	431 2+11	Basic Analyzer	tshabaneh	11/22/2019 5:42 PM	90		
+AR Plate 1 (2+11)	tshabaneh	11/27/2019 12:41 PM	Standard	97	
+468 5AZA 112219	mmcafee	11/25/2019 9:15 AM	Standard	101	
+468 2.5AZA 112219	mmcafee	11/25/2019 9:15 AM	Standard	100	
+468 0Aza 112219	mmcafee	11/25/2019 9:15 AM	Standard	99	
+jcooper_20191122_Essen+-Ca	jcooper	11/23/2019 2:00 PM	Scratch Wound	102	default Incucyte analysis	Scratch Wound	jcooper	11/25/2019 8:08 PM	96		
+jcooper_20191122_Essen+-Ca	jcooper	11/23/2019 2:00 PM	Scratch Wound	102	default Incucyte analysis	Scratch Wound	jcooper	11/25/2019 9:15 AM	91		
+S2819_54DDRG_250PAC	ssun2	11/21/2019 10:30 AM	Standard	96	ssun2_Neurite	NeuroTrack	ssun2	12/6/2019 5:33 AM	115		
+S2819_54DDRG_250PAC	ssun2	11/21/2019 10:30 AM	Standard	96	Caspase	Basic Analyzer	ssun2	11/25/2019 4:04 PM	92		
+S2819_54DDRG_100PAC	ssun2	11/21/2019 10:30 AM	Standard	95	ssun2_Neurite	NeuroTrack	ssun2	12/6/2019 3:38 AM	114		
+S2819_54DDRG_100PAC	ssun2	11/21/2019 10:30 AM	Standard	95	Caspase	Basic Analyzer	ssun2	11/25/2019 5:21 PM	93		
+S2819_54DDRG_50PAC	ssun2	11/21/2019 10:30 AM	Standard	94	ssun2_Neurite	NeuroTrack	ssun2	12/6/2019 1:40 AM	113		
+S2819_54DDRG_50PAC	ssun2	11/21/2019 10:30 AM	Standard	94	Caspase	Basic Analyzer	ssun2	11/25/2019 6:31 PM	94		
+S2819_54DDRG_noPAC	ssun2	11/21/2019 10:30 AM	Standard	93	ssun2_Neurite	NeuroTrack	ssun2	12/5/2019 11:42 PM	112		
+S2819_54DDRG_noPAC	ssun2	11/21/2019 10:30 AM	Standard	93	Caspase	Basic Analyzer	ssun2	11/25/2019 7:42 PM	95		
+H2122 111519	mmcafee	11/18/2019 9:31 AM	Standard	92	h2122 red	Basic Analyzer	mmcafee	3/19/2021 2:51 PM	633		
+H2122 111519	mmcafee	11/18/2019 9:31 AM	Standard	92	h2122 red	Basic Analyzer	mmcafee	11/18/2019 5:26 PM	80		
+H1299 111519	mmcafee	11/18/2019 9:31 AM	Standard	91	h1299 red	Basic Analyzer	mmcafee	11/18/2019 2:36 PM	78		
+HS578T 48 well 111519	mmcafee	11/18/2019 9:31 AM	Standard	90	 hs578t red	Basic Analyzer	mmcafee	11/18/2019 1:10 PM	77		
+Bt474 96 well 111519	mmcafee	11/18/2019 9:31 AM	Standard	89	Bt474 red	Basic Analyzer	mmcafee	11/18/2019 12:17 PM	76		
+11.13.19.JCplate2	haritha	11/15/2019 12:30 PM	Standard	88	HM JC adherent cell confluence	Basic Analyzer	haritha	11/15/2019 1:34 PM	71		
+11.13.19.JCplate1	haritha	11/15/2019 12:30 PM	Standard	87	HM JC adherent cell confluence	Basic Analyzer	haritha	11/15/2019 1:50 PM	72		
+11.13.19 HM plate#3 A549 migration	haritha	11/15/2019 12:30 PM	Scratch Wound	86	HM scratch wound migration	Scratch Wound	haritha	11/15/2019 3:21 PM	75		
+11.13.19 HM plate#2 MS008	haritha	11/15/2019 12:30 PM	Standard	85	HM JC adherent cell confluence	Basic Analyzer	haritha	11/15/2019 2:36 PM	73		
+11.13.19 HM plate#1 Myci	haritha	11/15/2019 12:30 PM	Standard	84	HM JC adherent cell confluence	Basic Analyzer	haritha	11/15/2019 3:09 PM	74		
+jcooper_20191112	jcooper	11/12/2019 1:40 PM	Standard	83	
+TM 20191106 Plate 3 L363eGFP w C3-7 red	tmartino	11/11/2019 10:00 AM	Standard	80	
+TM 20191106 Plate 2 L363 Cytogreen w C3-7 red	tmartino	11/11/2019 10:00 AM	Standard	79	
+TM 20191106 Plate 1 L363 CytoRed w C3-7 green	tmartino	11/11/2019 10:00 AM	Standard	78	TM 20191107 Analysis prev_Copy	Basic Analyzer	tmartino	11/11/2019 10:40 AM	61		
+TM 20191106 Plate 1 L363 CytoRed w C3-7 green	tmartino	11/11/2019 10:00 AM	Standard	78	TM 20191107 Analysis prev	Basic Analyzer	tmartino	11/7/2019 10:44 AM	60		
+TM 20191106 Plate 1 L363 CytoRed w C3-7 green	tmartino	11/11/2019 10:00 AM	Standard	78	TM 20190920 Plate 1 293SP	Basic Analyzer	tmartino	11/7/2019 10:35 AM	59		
+AR_IncuCyte Pilot	tshabaneh	11/11/2019 9:30 AM	Standard	81	
+TM 20191107 Plate 4 L363 eGFP c3-7 1-1000 dil	tmartino	11/11/2019 9:30 AM	Standard	82	TM 20191107 Analysis prev_Copy_Copy_Copy	Basic Analyzer	tmartino	11/14/2019 1:20 PM	67		
+TM 20191107 Plate 4 L363 eGFP c3-7 1-1000 dil	tmartino	11/11/2019 9:30 AM	Standard	82	TM 20191107 Analysis prev_Copy_Copy	Basic Analyzer	tmartino	11/14/2019 1:11 PM	66		
+PEA2	zshire	11/6/2019 9:30 AM	Standard	77	growth curve for PEA2	Basic Analyzer	zshire	11/18/2019 11:36 PM	86		
+PEA1	zshire	11/6/2019 9:30 AM	Standard	76	growth curve for PEA1	Basic Analyzer	zshire	11/18/2019 11:00 PM	85		
+PEO23	zshire	11/6/2019 9:30 AM	Standard	75	growth curve for PEO23	Basic Analyzer	zshire	11/18/2019 3:53 PM	79		
+PEO23	zshire	11/6/2019 9:30 AM	Standard	75	PEO23	Basic Analyzer	zshire	11/6/2019 2:00 PM	58		
+PEO14	zshire	11/6/2019 9:30 AM	Standard	74	growth curve for PEO14_2	Basic Analyzer	zshire	11/18/2019 7:23 PM	82		
+PEO14	zshire	11/6/2019 9:30 AM	Standard	74	growth curve for PEO14	Basic Analyzer	zshire	11/18/2019 6:09 PM	81		
+PEO4	zshire	11/6/2019 9:30 AM	Standard	73	growth curve for PEO4	Basic Analyzer	zshire	11/18/2019 9:47 PM	84		
+PEO1	zshire	11/6/2019 9:30 AM	Standard	72	growth curve for PEO1	Basic Analyzer	zshire	11/18/2019 8:28 PM	83		
+20191024 530-4 Incucyte 1e5 Panc1	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	71	20191024 530-4 Incucyte 1e5 Tumor Cell	Basic Analyzer	skoda	11/14/2019 7:43 PM	70	NR Panc1 Tumor Cells	
+20191024 530-4 Incucyte 1e5 Panc1	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	71	20191024 huFas Panc1 cell by cell	Non-Adherent Cell-by-Cell	skoda	10/30/2019 5:47 AM	57		
+20191024 530-4 Incucyte 1e5 Panc1	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	71	20191007 huFas NR 4	Basic Analyzer	skoda	10/29/2019 9:00 PM	55		
+20191024 530-4 Incucyte Panc1 1e4	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	70		20191119 SOda Panc1 overlap	Basic Analyzer	skoda	11/19/2019 3:27 PM	87		
+20191024 530-4 Incucyte Panc1 1e4	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	70		20191024 huFas Panc1 cell by cell v2	Non-Adherent Cell-by-Cell	skoda	11/14/2019 6:03 PM	68		
+20191024 530-4 Incucyte Panc1 1e4	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	70		20191024 huFas Panc1 cell by cell	Non-Adherent Cell-by-Cell	skoda	10/30/2019 1:19 AM	56		
+20191024 530-4 Incucyte Panc1 1e4	skoda	10/28/2019 4:00 PM	Non-Adherent Cell-by-Cell	70		20191007 huFas NR 4	Basic Analyzer	skoda	10/29/2019 6:22 PM	54		
+adenoexp5_10-23-19	dbuenros	10/26/2019 3:34 PM	Adherent Cell-by-Cell	69	adeno_analysis_11-20-19_Copy	Basic Analyzer	dbuenros	12/12/2019 4:09 PM	136		
+adenoexp5_10-23-19	dbuenros	10/26/2019 3:34 PM	Adherent Cell-by-Cell	69	adeno_analysis_11-20-19	Basic Analyzer	dbuenros	11/20/2019 3:19 PM	89		
+adenoexp5_10-23-19	dbuenros	10/26/2019 3:34 PM	Adherent Cell-by-Cell	69	adeno_analysis_11-20-19	Basic Analyzer	dbuenros	11/20/2019 2:13 PM	88		
+p6 me275 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	68	
+p5 me275 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	67	me275 nuc red	Basic Analyzer	mmcafee	10/25/2019 4:50 PM	53		
+p4 Hs578t 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	66	
+p3 Hs578T 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	65	nuc red count	Basic Analyzer	mmcafee	10/25/2019 4:02 PM	52		
+p2 h1299 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	64	cell by cell me275	Adherent Cell-by-Cell	mmcafee	10/25/2019 3:25 PM	51		
+p1 h1299 102119	mmcafee	10/23/2019 2:36 PM	Adherent Cell-by-Cell	63	cell by cell me275	Adherent Cell-by-Cell	mmcafee	10/25/2019 12:50 PM	50		
+RP_20191017 Plate 6	rperret	10/21/2019 2:40 PM	Standard	62	
+RP_20191017 Plate 5	rperret	10/21/2019 2:40 PM	Standard	61	
+RP_20191017 Plate 4	rperret	10/21/2019 2:40 PM	Standard	60	RP_20191017 w spectral overlap subtracted	Basic Analyzer	rperret	10/21/2019 11:58 PM	47		
+RP_20191017 Plate 3	rperret	10/21/2019 2:00 PM	Standard	59	
+RP_20191017 Plate 2	rperret	10/21/2019 2:00 PM	Standard	58	RP_20191017 w spectral overlap subtracted_CopyLG	Basic Analyzer	smureli	10/24/2019 3:59 PM	49		
+RP_20191017 Plate 2	rperret	10/21/2019 2:00 PM	Standard	58	RP_20191017 w spectral overlap subtracted	Basic Analyzer	rperret	10/23/2019 4:08 PM	48		
+RP_20191017 Plate 2	rperret	10/21/2019 2:00 PM	Standard	58	RP_20191017 w spectral overlap subtracted	Basic Analyzer	rperret	10/21/2019 9:38 PM	46		
+RP_20191017 Plate 1	rperret	10/21/2019 2:00 PM	Standard	57	
+RP_20191014 Plate 3	rperret	10/17/2019 11:30 AM	Standard	53	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 12:07 PM	40		
+RP_20191014 Plate2	rperret	10/17/2019 11:30 AM	Standard	52	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 12:04 PM	39		
+RP_20191014 Plate2	rperret	10/17/2019 11:30 AM	Standard	52	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 12:01 PM	38		
+RP_20191014 Plate1	rperret	10/17/2019 11:30 AM	Standard	51	
+RP_20191014 Plate6	rperret	10/17/2019 10:55 AM	Standard	56	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 11:29 AM	43		
+RP_20191014 Plate5	rperret	10/17/2019 10:55 AM	Standard	55	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 11:26 AM	42		
+RP_20191014 Plate4	rperret	10/17/2019 10:55 AM	Standard	54	RP_20191014 K562 RapidRed	Basic Analyzer	rperret	10/17/2019 11:23 AM	41		
+20191009 huFas Panc1 4	skoda	10/14/2019 12:00 PM	Standard	50	20191009 NR Panc1	Basic Analyzer	skoda	10/14/2019 12:03 PM	34		
+jcooper_20191008_-Ca	jcooper	10/9/2019 10:45 AM	Standard	45	
+jcooper_20191008_+Ca	jcooper	10/9/2019 9:45 AM	Standard	44	
+PANC1	dbuenros	10/5/2019 6:00 PM	Standard	42	PANC1	Basic Analyzer	dbuenros	10/21/2019 3:26 PM	45		
+OVCAR3	dbuenros	10/5/2019 6:00 PM	Standard	41	
+AML	dbuenros	10/5/2019 6:00 PM	Standard	40	AML RX018	Basic Analyzer	dbuenros	10/21/2019 2:34 PM	44		
+adeno_exp4	dbuenros	10/5/2019 6:00 PM	Standard	39	adeno_1	Basic Analyzer	dbuenros	10/11/2019 6:29 PM	37		
+adeno_exp4	dbuenros	10/5/2019 6:00 PM	Standard	39	adeno	Basic Analyzer	dbuenros	10/11/2019 6:22 PM	36		
+adeno_exp4	dbuenros	10/5/2019 6:00 PM	Standard	39	adeno	Basic Analyzer	dbuenros	10/11/2019 1:29 PM	35		
+me275-VSIG4	mmcafee	10/2/2019 1:31 PM	Standard	38	
+me275 nuc red 100119	mmcafee	10/2/2019 1:31 PM	Standard	37	
+szhu23-092719-Plate5-HCT116 Mock-nuclightRed	szhu23	9/30/2019 10:47 AM	Standard	36	szhu23-Tri-Color	Basic Analyzer	szhu23	9/30/2019 11:15 AM	31		
+szhu23-092719-Plate4-HCT116 mCAT-nuclightRed	szhu23	9/30/2019 10:47 AM	Standard	35	szhu23-Tri-Color	Basic Analyzer	szhu23	9/30/2019 11:12 AM	30		
+szhu23-092719-Plate3-HCT116 mCAT-nuclightRed	szhu23	9/30/2019 10:01 AM	Standard	34	szhu23-Tri-Color	Basic Analyzer	szhu23	9/30/2019 10:52 AM	29		
+szhu23-092719-Plate2-HCT116 Mock-nuclightRed	szhu23	9/30/2019 10:01 AM	Standard	33	szhu23-Tri-Color	Basic Analyzer	szhu23	9/30/2019 10:45 AM	28		
+szhu23-092719-Plate1-MCF7-nuclightRed	szhu23	9/30/2019 10:01 AM	Standard	30	szhu23-Red	Basic Analyzer	szhu23	9/30/2019 10:58 AM	32		
+Vic_keratin_092419	vbii	9/27/2019 1:00 PM	Standard	29	vbii_keratin_092419_v1	Basic Analyzer	vbii	10/8/2019 4:47 PM	33		
+1765 402 GFP killing S10 9/23/19	rgblack	9/26/2019 5:00 PM	Spheroid	28	S10 Killing 1765 402 9/26/19	Spheroid	rgblack	9/26/2019 5:28 PM	27		
+9-17-19 siBCAT2_siBCKDHB	haritha	9/23/2019 6:43 AM	Standard	27	nanhyung-cell confluence	Basic Analyzer	haritha	9/23/2019 6:52 AM	13		
+9-17-19 siBCAT2_siBCKDHB	haritha	9/23/2019 6:43 AM	Standard	27	nanhyung_phase_confluence	Basic Analyzer	haritha	9/23/2019 6:50 AM	12		
+PBT05 alone	enealy	9/17/2019 11:34 AM	Standard	25	ESN:PBT-05Nuc	Basic Analyzer	enealy	9/17/2019 12:35 PM	11		
+PBT05+Humacs	enealy	9/17/2019 11:34 AM	Standard	24	ESN:PBT-05Nuc	Basic Analyzer	enealy	9/17/2019 12:29 PM	10		
+TM_20190909_Plate6_L363	rperret	9/13/2019 4:31 PM	Standard	23	TM 20190920 Plate 5 L363_Copy	Basic Analyzer	rperret	9/21/2019 5:06 AM	26		
+TM_20190909_Plate6_L363	rperret	9/13/2019 4:31 PM	Standard	23	TM 20190920 Plate 5 L363_Copy	Basic Analyzer	rperret	9/20/2019 4:20 PM	20		
+TM_20190909_Plate5_L363	rperret	9/13/2019 4:16 PM	Standard	22	TM 20190920 Plate 5 L363	Basic Analyzer	rperret	9/21/2019 3:27 AM	25		
+TM_20190909_Plate5_L363	rperret	9/13/2019 4:16 PM	Standard	22	TM 20190920 Plate 5 L363	Basic Analyzer	rperret	9/20/2019 4:05 PM	19		
+TM_201909_Plate4_293-IP	rperret	9/13/2019 3:24 PM	Standard	21	TM 20190920 Plate 1 293SP_Copy	Basic Analyzer	rperret	9/21/2019 12:57 AM	24		
+TM_201909_Plate4_293-IP	rperret	9/13/2019 3:24 PM	Standard	21	TM 20190920 Plate 1 293SP_Copy	Basic Analyzer	rperret	9/20/2019 3:55 PM	18		
+TM_20190909_Plate3_293_IP	rperret	9/13/2019 3:24 PM	Standard	20	TM 20190920 Plate 1 293SP_Copy	Basic Analyzer	rperret	9/20/2019 11:19 PM	23		
+TM_20190909_Plate3_293_IP	rperret	9/13/2019 3:24 PM	Standard	20	TM 20190920 Plate 1 293SP	Basic Analyzer	rperret	9/20/2019 3:37 PM	17		
+TM_20190909_Plate2_293_SP	rperret	9/13/2019 3:24 PM	Standard	19	TM 20190920 Plate 1 293SP	Basic Analyzer	rperret	9/20/2019 8:37 PM	22		
+TM_20190909_Plate2_293_SP	rperret	9/13/2019 3:24 PM	Standard	19	TM 20190920 Plate 1 293SP	Basic Analyzer	rperret	9/20/2019 3:17 PM	16		
+TM_ 20190909_Plate1_293_SP	rperret	9/13/2019 3:24 PM	Standard	18	TM 20190920 Plate 1 293SP	Basic Analyzer	rperret	9/20/2019 7:03 PM	21		
+TM_ 20190909_Plate1_293_SP	rperret	9/13/2019 3:24 PM	Standard	18	TM 20190920 Plate 1 293SP	Basic Analyzer	rperret	9/20/2019 3:06 PM	15		
+PBT05 Alone	enealy	9/9/2019 3:08 PM	Standard	16	ESN:PBT-05Nuc	Basic Analyzer	enealy	9/9/2019 4:07 PM	5		
+PBT05_MuMacs	enealy	9/9/2019 3:08 PM	Standard	15	ESN:PBT-05Nuc	Basic Analyzer	enealy	9/9/2019 4:02 PM	4		
+OE 19 TUSC1 KO JLA Round 3	jayers	9/9/2019 9:08 AM	Standard	17	JLA_ TUSC1 OE 19_Round 2	Basic Analyzer	jayers	9/9/2019 11:22 AM	7		
+OE 19 TUSC1 KO JLA Round 3	jayers	9/9/2019 9:08 AM	Standard	17	JLA_ TUSC1 OE 19	Basic Analyzer	jayers	9/9/2019 9:55 AM	6		
+S10 Spheroid Killing 1765 402 fuji 090319	rgblack	9/6/2019 11:25 AM	Spheroid	14	S10 D7 Sort incucytre 9/6/19 GB	Spheroid	rgblack	9/6/2019 12:23 PM	3		
+jcooper20190903kerato24well	jcooper	9/4/2019 9:15 AM	Standard	13	
+jcooper20190903kerato96well	jcooper	9/4/2019 9:15 AM	Standard	12	
+Vic_keratinocytes-CRISP-RELA	jayers	9/3/2019 9:33 AM	Standard	11	Vbii_Keratin_09122019-Analysis	Basic Analyzer	jayers	9/12/2019 3:16 PM	9		
+Vic_keratinocytes-CRISP-RELA	jayers	9/3/2019 9:33 AM	Standard	11	NLS-GFP-Keratinocytes_vbii_Analysis	Basic Analyzer	jdubrull	9/11/2019 3:13 PM	8		
+OE 19 TUSC1 KO, 24 well plate 8_27_19	jayers	9/3/2019 7:55 AM	Standard	9	JLA_ TUSC1 OE 19	Basic Analyzer	jayers	9/3/2019 7:57 AM	1		
+OE 19 TUSC1 KO_JLA round 2	jayers	9/3/2019 7:44 AM	Standard	10	JLA_ TUSC1 OE 19_Round 2	Basic Analyzer	jayers	9/3/2019 7:46 AM	2		
+test	Admin	8/22/2019 1:45 PM	Standard (with lock)	5	
+test	Admin	8/19/2019 12:49 PM	Standard	7	

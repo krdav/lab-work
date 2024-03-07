@@ -1,0 +1,22 @@
+Multisizer 4	 0:48  28 Dec 2020
+File name:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest _0mM-met_no-sal_1_28 Dec 2020_01.#m4
+File ID:	H1299-Nuc-RFP_Asp-levels_post-salvage_harvest 
+Sample ID:	0mM-met_no-sal_1
+Control mode:	Volumetric,  2000  uL
+Acquired:	23:59  27 Dec 2020
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	10848
+Counting threshold:	5.000
+Counts above threshold:	10848
+Coincidence corrected:	11064
+
+From	14.90
+To	35.15
+Number 	459.1e3
+Mean:	22.76
+Median:	22.55
+S.D.:	2.487
+

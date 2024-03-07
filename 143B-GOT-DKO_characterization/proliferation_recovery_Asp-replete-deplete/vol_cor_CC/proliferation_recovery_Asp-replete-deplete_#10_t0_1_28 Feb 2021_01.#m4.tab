@@ -1,0 +1,22 @@
+Multisizer 4	10:15  16 Apr 2021
+File name:	proliferation_recovery_Asp-replete-deplete_#10_t0_1_28 Feb 2021_01.#m4
+File ID:	proliferation_recovery_Asp-replete-deplete
+Sample ID:	#10_t0_1
+Control mode:	Volumetric,  2000  uL
+Acquired:	16:47  28 Feb 2021
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	1347
+Counting threshold:	5.000
+Counts above threshold:	1347
+Coincidence corrected:	1349
+
+From	1303
+To	20625
+Number 	9540
+Mean:	4722
+Median:	4342
+S.D.:	1970
+

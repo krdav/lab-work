@@ -1,0 +1,22 @@
+Multisizer 4	19:28  22 Mar 2022
+File name:	143B-GOT-DKO_Atpenin-sensitivity_t0_6_22 Mar 2022_01.#m4
+File ID:	143B-GOT-DKO_Atpenin-sensitivity
+Sample ID:	t0_6
+Control mode:	Volumetric,  2000  uL
+Acquired:	19:27  22 Mar 2022
+Size bins:	200
+From	5.000
+To	50.00
+Sizing threshold:	5.000
+Total pulses:	1394
+Counting threshold:	5.000
+Counts above threshold:	1394
+Coincidence corrected:	1396
+
+From	1437
+To	30466
+Number 	8440
+Mean:	4744
+Median:	4352
+S.D.:	1843
+
